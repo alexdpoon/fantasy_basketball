@@ -44,6 +44,7 @@ filename = "12-13RD.txt"
 filename = "13-14RD-partial.txt"
 filename = "13-14RD.txt"
 #filename = "preseason_2014.txt"
+filename = "16-17RD.txt"
 
 # field names in each position
 # (might need to tweak for each diff file each year)
@@ -71,7 +72,8 @@ techs = 20
 ejects = 21
 ff = 22
 starts = 23
-notes = 24
+plus_minus = 24
+notes = 25
 
 # the lists of players
 c = []
