@@ -1,0 +1,1207 @@
+
+Centers: 69
+Power forwards: 108
+Small forwards: 91
+Shooting guards: 106
+Point guards: 108
+TOTAL: 482
+
+1) DURANT,KEVIN [18.70] [43.0%] 81gp (38min) SF OKL 510
+(50% fg), (87% ft), (2.4 3s), (7.4 reb), (5.5 ass), (1.3 stl), (3.5 to), (32.0 pts), (0.7 blk)
+[2.6 fg], [3.8 ft], [2.9 3s], [1.9 reb], [2.7 ass], [1.9 stl], [-2.1 to], [3.6 pts], [1.4 blk]
+
+2) CURRY,STEPHEN [15.49] [31.0%] 78gp (36min) PG GSW 574
+(47% fg), (88% ft), (3.3 3s), (4.3 reb), (8.6 ass), (1.7 stl), (3.8 to), (24.0 pts), (0.2 blk)
+[1.5 fg], [2.4 ft], [3.7 3s], [1.1 reb], [3.4 ass], [2.3 stl], [-2.0 to], [2.6 pts], [0.4 blk]
+
+3) DAVIS,ANTHONY [15.15] [29.8%] 67gp (35min) PF NOR -114
+(51% fg), (79% ft), (0.0 3s), (10.0 reb), (1.6 ass), (1.3 stl), (1.6 to), (20.8 pts), (2.8 blk)
+[2.3 fg], [1.5 ft], [-0.1 3s], [2.4 reb], [0.7 ass], [2.0 stl], [-0.1 to], [2.2 pts], [4.2 blk]
+
+4) JAMES,LEBRON [15.15] [31.0%] 77gp (37min) SF MIA 409
+(56% fg), (75% ft), (1.5 3s), (6.9 reb), (6.3 ass), (1.6 stl), (3.5 to), (27.1 pts), (0.3 blk)
+[4.0 fg], [0.6 ft], [1.8 3s], [1.7 reb], [3.0 ass], [2.4 stl], [-2.1 to], [3.1 pts], [0.5 blk]
+
+5) LOVE,KEVIN [14.61] [28.2%] 77gp (36min) PF MIN 355
+(45% fg), (82% ft), (2.5 3s), (12.5 reb), (4.5 ass), (0.8 stl), (2.5 to), (26.1 pts), (0.5 blk)
+[0.4 fg], [2.5 ft], [3.1 3s], [3.1 reb], [2.2 ass], [1.0 stl], [-1.1 to], [2.9 pts], [0.4 blk]
+
+6) HARDEN,JAMES [14.56] [29.0%] 73gp (38min) SG HOU 408
+(45% fg), (86% ft), (2.4 3s), (4.7 reb), (6.1 ass), (1.6 stl), (3.6 to), (25.4 pts), (0.4 blk)
+[0.9 fg], [3.3 ft], [2.6 3s], [1.2 reb], [2.7 ass], [2.2 stl], [-2.0 to], [2.8 pts], [0.8 blk]
+
+7) PAUL,CHRIS [14.53] [27.7%] 62gp (34min) PG LAC 530
+(46% fg), (85% ft), (1.3 3s), (4.3 reb), (10.7 ass), (2.5 stl), (2.3 to), (19.1 pts), (0.1 blk)
+[1.3 fg], [2.2 ft], [1.1 3s], [1.1 reb], [3.9 ass], [3.4 stl], [-0.4 to], [1.9 pts], [0.2 blk]
+
+8) ANTHONY,CARMELO [14.34] [27.9%] 77gp (38min) SF NYK 103
+(45% fg), (84% ft), (2.2 3s), (8.1 reb), (3.1 ass), (1.2 stl), (2.6 to), (27.4 pts), (0.7 blk)
+[0.5 fg], [2.7 ft], [2.6 3s], [2.1 reb], [1.5 ass], [1.8 stl], [-1.2 to], [3.2 pts], [1.2 blk]
+
+9) NOWITZKI,DIRK [13.94] [26.5%] 80gp (32min) PF DAL 322
+(49% fg), (89% ft), (1.6 3s), (6.2 reb), (2.7 ass), (0.9 stl), (1.5 to), (21.7 pts), (0.6 blk)
+[1.8 fg], [2.9 ft], [2.2 3s], [1.2 reb], [1.3 ass], [1.3 stl], [-0.0 to], [2.4 pts], [0.7 blk]
+
+10) GEORGE,PAUL [12.83] [23.8%] 80gp (36min) SG IND 375
+(42% fg), (86% ft), (2.3 3s), (6.8 reb), (3.5 ass), (1.9 stl), (2.8 to), (21.7 pts), (0.3 blk)
+[-0.3 fg], [2.5 ft], [2.5 3s], [2.0 reb], [1.5 ass], [2.9 stl], [-1.3 to], [2.4 pts], [0.7 blk]
+
+11) IBAKA,SERGE [12.49] [22.2%] 81gp (32min) PF OKL 405
+(53% fg), (78% ft), (0.3 3s), (8.8 reb), (1.0 ass), (0.5 stl), (1.5 to), (15.1 pts), (2.7 blk)
+[2.5 fg], [0.9 ft], [0.3 3s], [2.1 reb], [0.4 ass], [0.4 stl], [-0.1 to], [1.6 pts], [4.3 blk]
+
+12) LOWRY,KYLE [12.02] [22.1%] 79gp (36min) PG TOR 269
+(42% fg), (81% ft), (2.4 3s), (4.7 reb), (7.4 ass), (1.5 stl), (2.5 to), (17.9 pts), (0.2 blk)
+[-0.0 fg], [1.4 ft], [2.7 3s], [1.2 reb], [3.0 ass], [2.1 stl], [-0.7 to], [1.9 pts], [0.5 blk]
+
+13) NOAH,JOAKIM [11.79] [21.7%] 80gp (35min) C CHI 230
+(47% fg), (73% ft), (0.0 3s), (11.3 reb), (5.4 ass), (1.2 stl), (2.4 to), (12.6 pts), (1.5 blk)
+[0.4 fg], [0.8 ft], [0.3 3s], [2.7 reb], [2.8 ass], [2.1 stl], [-1.0 to], [1.4 pts], [2.3 blk]
+
+14) LEONARD,KAWHI [11.57] [21.1%] 66gp (29min) SF SAN 376
+(52% fg), (80% ft), (1.0 3s), (6.2 reb), (2.0 ass), (1.7 stl), (1.2 to), (12.8 pts), (0.7 blk)
+[2.0 fg], [0.9 ft], [1.1 3s], [1.4 reb], [0.9 ass], [2.5 stl], [0.2 to], [1.2 pts], [1.3 blk]
+
+15) JEFFERSON,AL [11.32] [20.9%] 73gp (35min) C CHA 30
+(50% fg), (68% ft), (0.0 3s), (10.8 reb), (2.1 ass), (0.9 stl), (1.7 to), (21.8 pts), (1.1 blk)
+[2.1 fg], [0.2 ft], [0.4 3s], [2.5 reb], [1.1 ass], [1.4 stl], [-0.2 to], [2.5 pts], [1.3 blk]
+
+16) BOSH,CHRIS [11.28] [20.8%] 79gp (32min) PF MIA 447
+(51% fg), (81% ft), (0.9 3s), (6.6 reb), (1.1 ass), (1.0 stl), (1.6 to), (16.2 pts), (1.0 blk)
+[2.0 fg], [1.5 ft], [1.2 3s], [1.4 reb], [0.4 ass], [1.5 stl], [-0.1 to], [1.7 pts], [1.6 blk]
+
+17) WALL,JOHN [11.27] [20.1%] 82gp (36min) PG WAS 195
+(43% fg), (80% ft), (1.3 3s), (4.1 reb), (8.8 ass), (1.8 stl), (3.6 to), (19.3 pts), (0.5 blk)
+[0.1 fg], [1.3 ft], [1.3 3s], [1.0 reb], [3.5 ass], [2.6 stl], [-1.8 to], [2.1 pts], [1.1 blk]
+
+18) LILLARD,DAMIAN [11.26] [19.8%] 82gp (35min) PG POR 359
+(42% fg), (87% ft), (2.7 3s), (3.5 reb), (5.5 ass), (0.8 stl), (2.4 to), (20.7 pts), (0.3 blk)
+[-0.1 fg], [2.4 ft], [3.0 3s], [0.9 reb], [2.1 ass], [0.7 stl], [-0.7 to], [2.3 pts], [0.7 blk]
+
+19) ALDRIDGE,LAMARCU [11.23] [19.3%] 69gp (36min) PF POR 367
+(45% fg), (82% ft), (0.0 3s), (11.1 reb), (2.6 ass), (0.9 stl), (1.8 to), (23.2 pts), (1.0 blk)
+[0.5 fg], [1.9 ft], [0.0 3s], [2.6 reb], [1.2 ass], [1.2 stl], [-0.2 to], [2.5 pts], [1.6 blk]
+
+20) COUSINS,DEMARCUS [11.19] [20.3%] 71gp (32min) C SAC -18
+(49% fg), (72% ft), (0.0 3s), (11.7 reb), (2.9 ass), (1.5 stl), (3.5 to), (22.7 pts), (1.3 blk)
+[1.4 fg], [0.4 ft], [0.3 3s], [2.7 reb], [1.5 ass], [2.5 stl], [-1.9 to], [2.6 pts], [1.7 blk]
+
+21) DRAGIC,GORAN [11.16] [20.6%] 76gp (35min) PG PHO 301
+(50% fg), (75% ft), (1.6 3s), (3.2 reb), (5.9 ass), (1.4 stl), (2.8 to), (20.3 pts), (0.3 blk)
+[2.4 fg], [0.5 ft], [1.7 3s], [0.8 reb], [2.2 ass], [1.8 stl], [-1.0 to], [2.1 pts], [0.7 blk]
+
+22) BATUM,NICOLAS [11.14] [20.3%] 82gp (36min) SF POR 329
+(46% fg), (80% ft), (1.8 3s), (7.5 reb), (5.1 ass), (0.9 stl), (2.5 to), (13.0 pts), (0.7 blk)
+[0.8 fg], [1.1 ft], [2.1 3s], [1.9 reb], [2.5 ass], [1.2 stl], [-1.2 to], [1.4 pts], [1.3 blk]
+
+23) GRIFFIN,BLAKE [11.10] [19.9%] 80gp (35min) PF LAC 570
+(52% fg), (71% ft), (0.1 3s), (9.5 reb), (3.8 ass), (1.1 stl), (2.8 to), (24.1 pts), (0.6 blk)
+[3.0 fg], [-0.2 ft], [0.1 3s], [2.3 reb], [1.9 ass], [1.7 stl], [-1.4 to], [2.8 pts], [0.9 blk]
+
+24) IRVING,KYRIE [10.94] [19.6%] 71gp (35min) PG CLE -220
+(43% fg), (86% ft), (1.7 3s), (3.6 reb), (6.1 ass), (1.5 stl), (2.7 to), (20.8 pts), (0.3 blk)
+[0.0 fg], [2.1 ft], [1.8 3s], [0.8 reb], [2.2 ass], [2.0 stl], [-0.9 to], [2.1 pts], [0.7 blk]
+
+25) MILLSAP,PAUL [10.93] [20.2%] 74gp (33min) PF ATL 124
+(46% fg), (73% ft), (1.0 3s), (8.5 reb), (3.1 ass), (1.7 stl), (2.5 to), (17.9 pts), (1.1 blk)
+[0.5 fg], [0.3 ft], [1.3 3s], [1.9 reb], [1.5 ass], [2.7 stl], [-1.0 to], [1.9 pts], [1.7 blk]
+
+26) JORDAN,DEANDRE [10.91] [18.0%] 82gp (35min) C LAC 493
+(67% fg), (42% ft), (0.0 3s), (13.6 reb), (0.9 ass), (1.0 stl), (1.5 to), (10.4 pts), (2.5 blk)
+[3.1 fg], [-2.9 ft], [0.4 3s], [3.4 reb], [0.5 ass], [1.6 stl], [-0.1 to], [1.1 pts], [3.9 blk]
+
+27) THOMAS,ISAIAH [10.72] [18.8%] 72gp (34min) PG SAC 29
+(45% fg), (85% ft), (1.8 3s), (2.9 reb), (6.3 ass), (1.3 stl), (3.0 to), (20.3 pts), (0.1 blk)
+[0.9 fg], [2.1 ft], [1.8 3s], [0.6 reb], [2.4 ass], [1.6 stl], [-1.1 to], [2.1 pts], [0.3 blk]
+
+28) ARIZA,TREVOR [10.71] [19.4%] 77gp (35min) SF WAS 195
+(45% fg), (77% ft), (2.3 3s), (6.2 reb), (2.5 ass), (1.6 stl), (1.7 to), (14.4 pts), (0.3 blk)
+[0.6 fg], [0.8 ft], [2.8 3s], [1.5 reb], [1.2 ass], [2.5 stl], [-0.3 to], [1.5 pts], [0.3 blk]
+
+29) LOPEZ,ROBIN [10.67] [19.4%] 82gp (31min) C POR 314
+(55% fg), (81% ft), (0.0 3s), (8.5 reb), (0.9 ass), (0.3 stl), (1.0 to), (11.1 pts), (1.7 blk)
+[1.7 fg], [1.7 ft], [0.4 3s], [1.9 reb], [0.5 ass], [0.2 stl], [0.5 to], [1.2 pts], [2.6 blk]
+
+30) DRUMMOND,ANDRE [10.63] [17.5%] 81gp (32min) C DET -234
+(62% fg), (41% ft), (0.0 3s), (13.2 reb), (0.4 ass), (1.3 stl), (1.3 to), (13.5 pts), (1.6 blk)
+[3.4 fg], [-2.8 ft], [0.3 3s], [3.3 reb], [0.2 ass], [2.1 stl], [0.1 to], [1.5 pts], [2.5 blk]
+
+31) KORVER,KYLE [10.40] [19.0%] 71gp (33min) SG ATL 211
+(47% fg), (92% ft), (2.6 3s), (4.0 reb), (2.9 ass), (1.0 stl), (1.4 to), (12.0 pts), (0.3 blk)
+[1.3 fg], [1.2 ft], [2.8 3s], [1.0 reb], [1.1 ass], [1.1 stl], [0.2 to], [1.1 pts], [0.7 blk]
+
+32) WESTBROOK,RUSSEL [10.19] [18.3%] 46gp (30min) PG OKL 221
+(43% fg), (82% ft), (1.5 3s), (5.7 reb), (6.9 ass), (1.9 stl), (3.8 to), (21.8 pts), (0.2 blk)
+[0.4 fg], [1.7 ft], [1.2 3s], [1.4 reb], [2.3 ass], [2.3 stl], [-1.6 to], [2.0 pts], [0.4 blk]
+
+33) PARSONS,CHANDLER [10.15] [18.5%] 74gp (37min) SF HOU 325
+(47% fg), (74% ft), (1.8 3s), (5.5 reb), (4.0 ass), (1.2 stl), (1.9 to), (16.6 pts), (0.4 blk)
+[1.1 fg], [0.5 ft], [2.0 3s], [1.2 reb], [1.9 ass], [1.6 stl], [-0.5 to], [1.8 pts], [0.6 blk]
+
+34) HAWES,SPENCER [10.08] [18.3%] 80gp (30min) C CLE -482
+(45% fg), (78% ft), (1.6 3s), (8.2 reb), (3.0 ass), (0.6 stl), (2.2 to), (13.2 pts), (1.2 blk)
+[-0.0 fg], [1.2 ft], [2.5 3s], [1.8 reb], [1.6 ass], [0.7 stl], [-0.8 to], [1.4 pts], [1.6 blk]
+
+35) CONLEY,MIKE [10.07] [17.9%] 73gp (33min) PG MEM 151
+(44% fg), (81% ft), (1.4 3s), (2.9 reb), (6.0 ass), (1.5 stl), (2.1 to), (17.2 pts), (0.2 blk)
+[0.8 fg], [1.2 ft], [1.4 3s], [0.6 reb], [2.2 ass], [2.0 stl], [-0.2 to], [1.7 pts], [0.5 blk]
+
+36) GORTAT,MARCIN [10.01] [17.9%] 81gp (32min) C WAS 292
+(54% fg), (68% ft), (0.0 3s), (9.5 reb), (1.7 ass), (0.5 stl), (1.6 to), (13.2 pts), (1.5 blk)
+[2.0 fg], [0.3 ft], [0.4 3s], [2.2 reb], [0.9 ass], [0.6 stl], [-0.1 to], [1.5 pts], [2.3 blk]
+
+37) DUNCAN,TIM [9.99] [17.2%] 74gp (29min) PF SAN 304
+(49% fg), (73% ft), (0.0 3s), (9.8 reb), (3.0 ass), (0.6 stl), (2.1 to), (15.1 pts), (1.9 blk)
+[1.3 fg], [0.4 ft], [-0.1 3s], [2.3 reb], [1.4 ass], [0.6 stl], [-0.7 to], [1.5 pts], [3.3 blk]
+
+38) LOPEZ,BROOK [9.98] [17.0%] 17gp (31min) C BRO -23
+(56% fg), (81% ft), (0.0 3s), (6.0 reb), (0.9 ass), (0.5 stl), (1.6 to), (20.7 pts), (1.8 blk)
+[2.4 fg], [2.2 ft], [0.3 3s], [0.4 reb], [0.4 ass], [0.4 stl], [0.3 to], [1.8 pts], [1.9 blk]
+
+39) MATTHEWS,WESLEY [9.97] [17.8%] 82gp (33min) SG POR 303
+(44% fg), (83% ft), (2.5 3s), (3.5 reb), (2.4 ass), (0.9 stl), (1.3 to), (16.4 pts), (0.2 blk)
+[0.5 fg], [1.5 ft], [2.7 3s], [0.9 reb], [0.9 ass], [1.1 stl], [0.2 to], [1.8 pts], [0.4 blk]
+
+40) GAY,RUDY [9.96] [17.6%] 73gp (34min) SF SAC -69
+(45% fg), (82% ft), (0.9 3s), (6.0 reb), (2.9 ass), (1.3 stl), (3.1 to), (20.0 pts), (0.8 blk)
+[0.6 fg], [1.9 ft], [0.9 3s], [1.4 reb], [1.4 ass], [1.8 stl], [-1.6 to], [2.3 pts], [1.4 blk]
+
+41) HORFORD,AL [9.90] [17.5%] 29gp (33min) PF ATL 73
+(56% fg), (68% ft), (0.1 3s), (8.4 reb), (2.6 ass), (0.9 stl), (2.2 to), (18.6 pts), (1.5 blk)
+[3.1 fg], [0.1 ft], [0.1 3s], [1.4 reb], [1.0 ass], [0.9 stl], [-0.3 to], [1.6 pts], [2.1 blk]
+
+42) MEEKS,JODIE [9.84] [17.1%] 77gp (33min) SG LAL -509
+(46% fg), (85% ft), (2.1 3s), (2.5 reb), (1.8 ass), (1.4 stl), (1.4 to), (15.7 pts), (0.1 blk)
+[1.1 fg], [1.6 ft], [2.2 3s], [0.5 reb], [0.5 ass], [2.1 stl], [0.1 to], [1.6 pts], [0.1 blk]
+
+43) YOUNG,THADDEUS [9.82] [17.1%] 79gp (34min) SF PHI -652
+(45% fg), (71% ft), (1.1 3s), (6.0 reb), (2.3 ass), (2.1 stl), (2.1 to), (17.9 pts), (0.5 blk)
+[0.6 fg], [0.2 ft], [1.3 3s], [1.4 reb], [1.1 ass], [3.3 stl], [-0.8 to], [2.0 pts], [0.7 blk]
+
+44) THOMPSON,KLAY [9.73] [16.9%] 81gp (35min) SG GSW 532
+(44% fg), (79% ft), (2.8 3s), (3.1 reb), (2.2 ass), (0.9 stl), (1.7 to), (18.4 pts), (0.5 blk)
+[0.5 fg], [0.7 ft], [3.1 3s], [0.7 reb], [0.8 ass], [1.1 stl], [-0.1 to], [2.0 pts], [1.0 blk]
+
+45) GREEN,GERALD [9.52] [16.8%] 82gp (28min) SG PHO 44
+(44% fg), (84% ft), (2.5 3s), (3.3 reb), (1.5 ass), (0.9 stl), (1.8 to), (15.8 pts), (0.5 blk)
+[0.6 fg], [1.3 ft], [2.8 3s], [0.8 reb], [0.3 ass], [1.0 stl], [-0.3 to], [1.7 pts], [1.2 blk]
+
+46) DEROZAN,DEMAR [9.50] [16.4%] 79gp (38min) SG TOR 180
+(42% fg), (82% ft), (0.8 3s), (4.3 reb), (4.0 ass), (1.1 stl), (2.2 to), (22.7 pts), (0.4 blk)
+[-0.1 fg], [2.3 ft], [0.5 3s], [1.1 reb], [1.7 ass], [1.4 stl], [-0.7 to], [2.5 pts], [0.8 blk]
+
+47) LAWSON,TY [9.42] [16.1%] 62gp (35min) PG DEN -46
+(43% fg), (79% ft), (1.2 3s), (3.5 reb), (8.8 ass), (1.6 stl), (3.2 to), (17.6 pts), (0.2 blk)
+[0.3 fg], [1.3 ft], [0.9 3s], [0.8 reb], [3.3 ass], [2.1 stl], [-1.3 to], [1.7 pts], [0.4 blk]
+
+48) HAYWARD,GORDON [9.38] [16.5%] 77gp (36min) SF UTA -395
+(41% fg), (81% ft), (1.1 3s), (5.1 reb), (5.2 ass), (1.4 stl), (2.8 to), (16.2 pts), (0.5 blk)
+[-0.6 fg], [1.7 ft], [1.2 3s], [1.1 reb], [2.5 ass], [2.1 stl], [-1.4 to], [1.8 pts], [0.9 blk]
+
+49) WADE,DWYANE [9.37] [16.1%] 54gp (32min) SG MIA 141
+(54% fg), (73% ft), (0.2 3s), (4.5 reb), (4.7 ass), (1.5 stl), (3.0 to), (19.0 pts), (0.5 blk)
+[3.2 fg], [0.1 ft], [-0.4 3s], [1.0 reb], [1.8 ass], [1.9 stl], [-1.2 to], [1.8 pts], [1.1 blk]
+
+50) BOGUT,ANDREW [9.27] [16.7%] 67gp (26min) C GSW 308
+(62% fg), (34% ft), (0.0 3s), (10.0 reb), (1.7 ass), (0.7 stl), (1.4 to), (7.3 pts), (1.8 blk)
+[2.1 fg], [-0.5 ft], [0.4 3s], [2.2 reb], [0.9 ass], [1.0 stl], [0.1 to], [0.6 pts], [2.6 blk]
+
+51) GASOL,MARC [9.24] [16.2%] 59gp (33min) C MEM 16
+(47% fg), (76% ft), (0.0 3s), (7.2 reb), (3.7 ass), (1.0 stl), (1.9 to), (14.6 pts), (1.3 blk)
+[0.4 fg], [1.2 ft], [0.4 3s], [1.2 reb], [1.8 ass], [1.5 stl], [-0.3 to], [1.5 pts], [1.6 blk]
+
+52) ELLIS,MONTA [9.24] [16.0%] 82gp (36min) PG DAL 49
+(45% fg), (78% ft), (0.8 3s), (3.6 reb), (5.7 ass), (1.7 stl), (3.2 to), (19.0 pts), (0.3 blk)
+[0.8 fg], [1.0 ft], [0.6 3s], [0.9 reb], [2.2 ass], [2.5 stl], [-1.5 to], [2.0 pts], [0.7 blk]
+
+53) CARROLL,DEMARRE [9.05] [16.2%] 73gp (32min) SF ATL 99
+(47% fg), (77% ft), (1.3 3s), (5.5 reb), (1.8 ass), (1.5 stl), (1.1 to), (11.1 pts), (0.3 blk)
+[0.9 fg], [0.7 ft], [1.5 3s], [1.2 reb], [0.8 ass], [2.2 stl], [0.4 to], [1.0 pts], [0.3 blk]
+
+54) CALDERON,JOSE [9.04] [16.4%] 81gp (30min) PG DAL -4
+(45% fg), (82% ft), (2.4 3s), (2.4 reb), (4.7 ass), (0.9 stl), (1.3 to), (11.4 pts), (0.1 blk)
+[1.0 fg], [0.5 ft], [2.7 3s], [0.5 reb], [1.6 ass], [0.8 stl], [0.5 to], [1.0 pts], [0.4 blk]
+
+55) WALKER,KEMBA [9.04] [15.2%] 73gp (35min) PG CHA 132
+(39% fg), (83% ft), (1.5 3s), (4.2 reb), (6.1 ass), (1.2 stl), (2.3 to), (17.7 pts), (0.4 blk)
+[-1.1 fg], [1.6 ft], [1.5 3s], [1.1 reb], [2.3 ass], [1.4 stl], [-0.5 to], [1.8 pts], [1.0 blk]
+
+56) VUCEVIC,NIKOLA [9.04] [15.8%] 57gp (31min) C ORL -177
+(50% fg), (76% ft), (0.0 3s), (11.0 reb), (1.8 ass), (1.1 stl), (2.0 to), (14.2 pts), (0.8 blk)
+[1.3 fg], [1.1 ft], [0.3 3s], [2.3 reb], [0.9 ass], [1.5 stl], [-0.3 to], [1.4 pts], [0.6 blk]
+
+57) WILLIAMS,DERON [8.97] [15.6%] 65gp (31min) PG BRO 187
+(44% fg), (80% ft), (1.5 3s), (2.6 reb), (6.0 ass), (1.4 stl), (2.2 to), (14.1 pts), (0.2 blk)
+[0.8 fg], [0.8 ft], [1.4 3s], [0.5 reb], [2.1 ass], [1.8 stl], [-0.3 to], [1.2 pts], [0.5 blk]
+
+58) GASOL,PAU [8.92] [15.6%] 60gp (31min) PF LAL -354
+(48% fg), (73% ft), (0.1 3s), (9.7 reb), (3.4 ass), (0.5 stl), (2.4 to), (17.4 pts), (1.5 blk)
+[1.1 fg], [0.5 ft], [-0.0 3s], [2.1 reb], [1.5 ass], [0.3 stl], [-0.8 to], [1.7 pts], [2.5 blk]
+
+59) PIERCE,PAUL [8.91] [16.0%] 75gp (28min) SF BRO 71
+(45% fg), (82% ft), (1.5 3s), (4.6 reb), (2.4 ass), (1.1 stl), (2.0 to), (13.5 pts), (0.4 blk)
+[0.5 fg], [1.7 ft], [1.7 3s], [1.0 reb], [1.1 ass], [1.6 stl], [-0.7 to], [1.4 pts], [0.6 blk]
+
+60) FAVORS,DERRICK [8.85] [15.7%] 73gp (30min) PF UTA -339
+(52% fg), (66% ft), (0.0 3s), (8.7 reb), (1.2 ass), (1.0 stl), (1.8 to), (13.3 pts), (1.5 blk)
+[1.9 fg], [-0.4 ft], [-0.1 3s], [2.0 reb], [0.5 ass], [1.5 stl], [-0.3 to], [1.3 pts], [2.5 blk]
+
+61) WEST,DAVID [8.81] [15.4%] 80gp (30min) PF IND 410
+(48% fg), (78% ft), (0.1 3s), (6.8 reb), (2.8 ass), (0.8 stl), (1.7 to), (14.0 pts), (0.9 blk)
+[1.2 fg], [1.1 ft], [-0.0 3s], [1.5 reb], [1.4 ass], [1.0 stl], [-0.2 to], [1.4 pts], [1.5 blk]
+
+62) MARTIN,KEVIN [8.79] [15.1%] 68gp (31min) SG MIN 176
+(43% fg), (89% ft), (1.7 3s), (3.0 reb), (1.8 ass), (1.0 stl), (1.6 to), (19.1 pts), (0.1 blk)
+[0.1 fg], [2.6 ft], [1.6 3s], [0.6 reb], [0.5 ass], [1.1 stl], [0.1 to], [2.0 pts], [0.2 blk]
+
+63) LEE,DAVID [8.77] [14.6%] 69gp (33min) PF GSW 467
+(52% fg), (78% ft), (0.0 3s), (9.3 reb), (2.1 ass), (0.7 stl), (2.2 to), (18.2 pts), (0.4 blk)
+[2.4 fg], [1.1 ft], [-0.1 3s], [2.1 reb], [0.9 ass], [0.8 stl], [-0.7 to], [1.9 pts], [0.3 blk]
+
+64) CRAWFORD,JAMAL [8.74] [14.7%] 69gp (30min) SG LAC 270
+(41% fg), (86% ft), (2.3 3s), (2.3 reb), (3.2 ass), (0.9 stl), (2.0 to), (18.6 pts), (0.2 blk)
+[-0.3 fg], [2.1 ft], [2.5 3s], [0.4 reb], [1.2 ass], [0.9 stl], [-0.3 to], [1.9 pts], [0.4 blk]
+
+65) JONES,TERRENCE [8.73] [15.7%] 76gp (27min) PF HOU 125
+(54% fg), (60% ft), (0.4 3s), (6.9 reb), (1.1 ass), (0.7 stl), (0.9 to), (12.1 pts), (1.3 blk)
+[2.2 fg], [-0.7 ft], [0.5 3s], [1.4 reb], [0.5 ass], [0.9 stl], [0.6 to], [1.1 pts], [2.3 blk]
+
+66) RUBIO,RICKY [8.67] [13.8%] 82gp (32min) PG MIN 381
+(38% fg), (80% ft), (0.5 3s), (4.2 reb), (8.6 ass), (2.3 stl), (2.7 to), (9.5 pts), (0.1 blk)
+[-0.5 fg], [0.9 ft], [0.2 3s], [1.1 reb], [3.4 ass], [3.4 stl], [-1.0 to], [0.7 pts], [0.4 blk]
+
+67) HOWARD,DWIGHT [8.67] [14.3%] 71gp (33min) C HOU 341
+(59% fg), (54% ft), (0.0 3s), (12.2 reb), (1.8 ass), (0.8 stl), (3.2 to), (18.3 pts), (1.8 blk)
+[3.1 fg], [-3.0 ft], [0.4 3s], [2.9 reb], [1.0 ass], [1.3 stl], [-1.7 to], [2.1 pts], [2.7 blk]
+
+68) TEAGUE,JEFF [8.60] [14.9%] 79gp (32min) PG ATL 117
+(43% fg), (84% ft), (0.9 3s), (2.6 reb), (6.7 ass), (1.1 stl), (2.9 to), (16.5 pts), (0.2 blk)
+[0.5 fg], [1.9 ft], [0.7 3s], [0.6 reb], [2.6 ass], [1.3 stl], [-1.2 to], [1.7 pts], [0.5 blk]
+
+69) FOYE,RANDY [8.52] [15.0%] 81gp (30min) PG DEN -125
+(41% fg), (84% ft), (2.3 3s), (2.9 reb), (3.6 ass), (0.8 stl), (1.8 to), (13.2 pts), (0.5 blk)
+[-0.1 fg], [1.1 ft], [2.7 3s], [0.7 reb], [1.0 ass], [0.8 stl], [-0.0 to], [1.3 pts], [1.2 blk]
+
+70) ANDERSON,RYAN [8.50] [14.0%] 22gp (36min) PF NOR 30
+(43% fg), (95% ft), (3.0 3s), (6.4 reb), (0.8 ass), (0.5 stl), (0.9 to), (19.8 pts), (0.3 blk)
+[-0.2 fg], [2.2 ft], [3.0 3s], [0.8 reb], [0.1 ass], [0.1 stl], [0.8 to], [1.6 pts], [-0.0 blk]
+
+71) FRYE,CHANNING [8.43] [15.2%] 82gp (28min) PF PHO 298
+(43% fg), (82% ft), (2.0 3s), (5.1 reb), (1.2 ass), (0.7 stl), (1.1 to), (11.1 pts), (0.8 blk)
+[-0.2 fg], [1.0 ft], [2.6 3s], [0.9 reb], [0.6 ass], [1.0 stl], [0.4 to], [1.1 pts], [1.2 blk]
+
+72) GINOBILI,MANU [8.42] [14.9%] 68gp (22min) SG SAN 421
+(46% fg), (85% ft), (1.3 3s), (3.0 reb), (4.3 ass), (1.0 stl), (2.0 to), (12.3 pts), (0.2 blk)
+[1.2 fg], [1.3 ft], [1.1 3s], [0.7 reb], [1.7 ass], [1.2 stl], [-0.4 to], [1.1 pts], [0.6 blk]
+
+73) BLEDSOE,ERIC [8.41] [14.9%] 43gp (32min) PG PHO 135
+(47% fg), (77% ft), (1.2 3s), (4.7 reb), (5.5 ass), (1.6 stl), (3.3 to), (17.7 pts), (0.3 blk)
+[1.5 fg], [0.7 ft], [0.8 3s], [1.0 reb], [1.6 ass], [1.8 stl], [-1.1 to], [1.5 pts], [0.7 blk]
+
+74) MARION,SHAWN [8.38] [14.9%] 76gp (31min) SF DAL -134
+(48% fg), (78% ft), (0.8 3s), (6.5 reb), (1.6 ass), (1.2 stl), (1.2 to), (10.4 pts), (0.5 blk)
+[1.2 fg], [0.7 ft], [0.7 3s], [1.6 reb], [0.7 ass], [1.7 stl], [0.1 to], [1.0 pts], [0.8 blk]
+
+75) BUTLER,JIMMY [8.33] [14.7%] 67gp (38min) SG CHI 187
+(39% fg), (76% ft), (1.0 3s), (4.9 reb), (2.6 ass), (1.9 stl), (1.5 to), (13.1 pts), (0.5 blk)
+[-0.4 fg], [0.7 ft], [0.7 3s], [1.3 reb], [0.9 ass], [2.7 stl], [0.1 to], [1.2 pts], [1.2 blk]
+
+76) JOHNSON,JOE [8.30] [14.6%] 79gp (32min) SG BRO 57
+(45% fg), (81% ft), (2.1 3s), (3.4 reb), (2.7 ass), (0.6 stl), (1.5 to), (15.8 pts), (0.1 blk)
+[0.8 fg], [0.9 ft], [2.2 3s], [0.8 reb], [1.0 ass], [0.5 stl], [0.0 to], [1.6 pts], [0.3 blk]
+
+77) DUNLEAVY,MIKE [8.25] [14.7%] 82gp (31min) SG CHI 173
+(43% fg), (85% ft), (1.5 3s), (4.2 reb), (2.3 ass), (0.8 stl), (1.3 to), (11.3 pts), (0.6 blk)
+[0.3 fg], [1.1 ft], [1.5 3s], [1.1 reb], [0.8 ass], [0.9 stl], [0.2 to], [1.1 pts], [1.3 blk]
+
+78) AFFLALO,ARRON [8.10] [13.9%] 73gp (34min) SG ORL -365
+(45% fg), (81% ft), (1.8 3s), (3.6 reb), (3.4 ass), (0.5 stl), (2.0 to), (18.2 pts), (0.0 blk)
+[1.0 fg], [1.4 ft], [1.7 3s], [0.9 reb], [1.3 ass], [0.2 stl], [-0.4 to], [1.9 pts], [0.1 blk]
+
+79) FARIED,KENNETH [8.05] [13.8%] 80gp (27min) SF DEN -158
+(54% fg), (64% ft), (0.0 3s), (8.5 reb), (1.2 ass), (0.9 stl), (1.7 to), (13.7 pts), (0.9 blk)
+[2.6 fg], [-0.8 ft], [-0.4 3s], [2.3 reb], [0.5 ass], [1.1 stl], [-0.3 to], [1.4 pts], [1.6 blk]
+
+80) REDICK,J.J. [8.03] [14.1%] 35gp (28min) SG LAC 210
+(45% fg), (91% ft), (2.1 3s), (2.1 reb), (2.3 ass), (0.8 stl), (1.2 to), (15.2 pts), (0.1 blk)
+[0.9 fg], [1.8 ft], [1.8 3s], [0.3 reb], [0.6 ass], [0.6 stl], [0.6 to], [1.2 pts], [0.2 blk]
+
+81) BREWER,COREY [7.98] [13.8%] 81gp (32min) SF MIN 331
+(47% fg), (71% ft), (0.7 3s), (2.6 reb), (1.7 ass), (1.9 stl), (1.3 to), (12.3 pts), (0.4 blk)
+[1.2 fg], [0.3 ft], [0.7 3s], [0.3 reb], [0.7 ass], [2.9 stl], [0.1 to], [1.3 pts], [0.6 blk]
+
+82) MCROBERTS,JOSH [7.95] [14.3%] 78gp (30min) PF CHA 37
+(43% fg), (72% ft), (1.3 3s), (4.8 reb), (4.3 ass), (0.7 stl), (1.1 to), (8.5 pts), (0.6 blk)
+[-0.0 fg], [0.5 ft], [1.8 3s], [0.7 reb], [2.1 ass], [0.9 stl], [0.4 to], [0.6 pts], [0.8 blk]
+
+83) JOHNSON,AMIR [7.95] [14.3%] 77gp (28min) PF TOR 198
+(56% fg), (63% ft), (0.3 3s), (6.5 reb), (1.5 ass), (0.7 stl), (1.6 to), (10.4 pts), (1.1 blk)
+[2.3 fg], [-0.2 ft], [0.3 3s], [1.3 reb], [0.7 ass], [0.9 stl], [-0.1 to], [0.9 pts], [1.9 blk]
+
+84) GREEN,DANNY [7.93] [14.3%] 69gp (23min) SG SAN 330
+(43% fg), (79% ft), (1.9 3s), (3.3 reb), (1.5 ass), (0.9 stl), (1.1 to), (9.0 pts), (0.9 blk)
+[0.4 fg], [0.4 ft], [1.9 3s], [0.7 reb], [0.3 ass], [1.1 stl], [0.6 to], [0.6 pts], [1.9 blk]
+
+85) MORRIS,MARKIEFF [7.93] [14.1%] 81gp (26min) PF PHO 133
+(48% fg), (79% ft), (0.4 3s), (6.0 reb), (1.8 ass), (0.8 stl), (1.8 to), (13.8 pts), (0.6 blk)
+[1.1 fg], [1.3 ft], [0.5 3s], [1.2 reb], [0.8 ass], [1.2 stl], [-0.4 to], [1.4 pts], [0.9 blk]
+
+86) JOHNSON,WESLEY [7.87] [14.2%] 79gp (28min) SG LAL -374
+(42% fg), (79% ft), (1.3 3s), (4.4 reb), (1.6 ass), (1.1 stl), (1.1 to), (9.1 pts), (1.0 blk)
+[0.3 fg], [0.4 ft], [1.1 3s], [1.1 reb], [0.3 ass], [1.4 stl], [0.5 to], [0.6 pts], [2.1 blk]
+
+87) COLLISON,DARREN [7.83] [14.0%] 80gp (25min) PG LAC 214
+(46% fg), (85% ft), (0.9 3s), (2.4 reb), (3.7 ass), (1.2 stl), (1.6 to), (11.4 pts), (0.2 blk)
+[1.2 fg], [1.3 ft], [0.7 3s], [0.5 reb], [1.1 ass], [1.4 stl], [0.1 to], [1.0 pts], [0.5 blk]
+
+88) PEKOVIC,NIKOLA [7.80] [13.4%] 54gp (30min) C MIN 280
+(54% fg), (74% ft), (0.0 3s), (8.7 reb), (0.9 ass), (0.6 stl), (1.6 to), (17.5 pts), (0.4 blk)
+[2.2 fg], [0.9 ft], [0.3 3s], [1.6 reb], [0.5 ass], [0.6 stl], [0.1 to], [1.8 pts], [-0.2 blk]
+
+89) BEAL,BRADLEY [7.77] [14.1%] 73gp (34min) SG WAS 110
+(41% fg), (78% ft), (1.9 3s), (3.7 reb), (3.4 ass), (1.0 stl), (1.8 to), (17.1 pts), (0.2 blk)
+[-0.3 fg], [0.7 ft], [2.0 3s], [0.9 reb], [1.3 ass], [1.1 stl], [-0.2 to], [1.7 pts], [0.6 blk]
+
+90) TUCKER,P.J. [7.76] [13.8%] 81gp (30min) SG PHO 125
+(43% fg), (77% ft), (0.9 3s), (6.5 reb), (1.7 ass), (1.4 stl), (1.3 to), (9.4 pts), (0.3 blk)
+[0.4 fg], [0.6 ft], [0.7 3s], [1.9 reb], [0.5 ass], [2.0 stl], [0.3 to], [0.7 pts], [0.7 blk]
+
+91) IGUODALA,ANDRE [7.72] [14.2%] 63gp (32min) SG GSW 567
+(48% fg), (65% ft), (1.0 3s), (4.6 reb), (4.2 ass), (1.5 stl), (1.6 to), (9.3 pts), (0.3 blk)
+[1.3 fg], [-0.4 ft], [0.6 3s], [1.1 reb], [1.7 ass], [2.1 stl], [0.1 to], [0.6 pts], [0.7 blk]
+
+92) HOLIDAY,JRUE [7.69] [13.6%] 34gp (33min) PG NOR 24
+(44% fg), (80% ft), (0.9 3s), (4.2 reb), (7.9 ass), (1.6 stl), (3.1 to), (14.3 pts), (0.4 blk)
+[0.7 fg], [0.5 ft], [0.4 3s], [0.8 reb], [2.5 ass], [1.8 stl], [-0.8 to], [1.0 pts], [0.7 blk]
+
+93) YOUNG,NICK [7.64] [13.4%] 64gp (28min) SG LAL -84
+(43% fg), (82% ft), (2.1 3s), (2.6 reb), (1.5 ass), (0.7 stl), (1.5 to), (17.9 pts), (0.2 blk)
+[0.3 fg], [1.4 ft], [2.1 3s], [0.5 reb], [0.3 ass], [0.6 stl], [0.2 to], [1.8 pts], [0.4 blk]
+
+94) MIDDLETON,KHRIS [7.62] [13.3%] 82gp (30min) SF MIL -381
+(44% fg), (86% ft), (1.5 3s), (3.8 reb), (2.1 ass), (1.0 stl), (1.5 to), (12.1 pts), (0.2 blk)
+[0.2 fg], [1.3 ft], [1.7 3s], [0.7 reb], [1.0 ass], [1.4 stl], [-0.2 to], [1.2 pts], [0.3 blk]
+
+95) JACKSON,REGGIE [7.62] [13.1%] 80gp (28min) PG OKL 350
+(43% fg), (89% ft), (1.0 3s), (3.9 reb), (4.1 ass), (1.1 stl), (2.1 to), (13.1 pts), (0.1 blk)
+[0.5 fg], [1.5 ft], [0.9 3s], [1.0 reb], [1.3 ass], [1.2 stl], [-0.4 to], [1.2 pts], [0.3 blk]
+
+96) HILL,GEORGE [7.61] [14.2%] 76gp (32min) PG IND 322
+(44% fg), (80% ft), (1.2 3s), (3.7 reb), (3.5 ass), (1.0 stl), (1.2 to), (10.3 pts), (0.3 blk)
+[0.7 fg], [0.7 ft], [1.2 3s], [0.9 reb], [0.9 ass], [1.1 stl], [0.6 to], [0.8 pts], [0.7 blk]
+
+97) AUGUSTIN,D.J. [7.60] [13.3%] 71gp (27min) PG CHI 54
+(41% fg), (88% ft), (1.9 3s), (1.8 reb), (4.4 ass), (0.7 stl), (1.8 to), (13.1 pts), (0.0 blk)
+[0.1 fg], [1.8 ft], [2.0 3s], [0.3 reb], [1.4 ass], [0.6 stl], [0.0 to], [1.2 pts], [0.2 blk]
+
+98) CHALMERS,MARIO [7.57] [13.7%] 73gp (29min) PG MIA 306
+(45% fg), (74% ft), (1.2 3s), (2.9 reb), (4.9 ass), (1.6 stl), (2.2 to), (9.8 pts), (0.2 blk)
+[0.9 fg], [0.2 ft], [1.1 3s], [0.7 reb], [1.7 ass], [2.3 stl], [-0.4 to], [0.7 pts], [0.6 blk]
+
+99) CARTER,VINCE [7.56] [13.7%] 81gp (24min) SG DAL 175
+(40% fg), (82% ft), (1.8 3s), (3.5 reb), (2.6 ass), (0.8 stl), (1.3 to), (11.9 pts), (0.4 blk)
+[-0.2 fg], [1.0 ft], [1.9 3s], [0.9 reb], [0.9 ass], [0.8 stl], [0.2 to], [1.1 pts], [1.0 blk]
+
+100) STEPHENSON,LANCE [7.56] [13.5%] 78gp (35min) SG IND 287
+(49% fg), (71% ft), (1.1 3s), (7.2 reb), (4.6 ass), (0.7 stl), (2.7 to), (13.8 pts), (0.1 blk)
+[1.8 fg], [-0.0 ft], [0.9 3s], [2.0 reb], [2.0 ass], [0.6 stl], [-1.2 to], [1.3 pts], [0.2 blk]
+
+101) HIBBERT,ROY [7.53] [13.0%] 81gp (29min) C IND 363
+(43% fg), (76% ft), (0.0 3s), (6.6 reb), (1.1 ass), (0.4 stl), (1.8 to), (10.8 pts), (2.2 blk)
+[-0.4 fg], [1.2 ft], [0.4 3s], [1.2 reb], [0.6 ass], [0.3 stl], [-0.4 to], [1.1 pts], [3.5 blk]
+
+102) KNIGHT,BRANDON [7.46] [13.0%] 72gp (33min) PG MIL -440
+(42% fg), (80% ft), (1.5 3s), (3.5 reb), (4.9 ass), (1.0 stl), (2.6 to), (17.9 pts), (0.2 blk)
+[-0.2 fg], [1.1 ft], [1.6 3s], [0.8 reb], [1.7 ass], [1.0 stl], [-0.8 to], [1.8 pts], [0.5 blk]
+
+103) BELINELLI,MARCO [7.43] [13.3%] 80gp (25min) SG SAN 261
+(48% fg), (84% ft), (1.6 3s), (2.8 reb), (2.2 ass), (0.6 stl), (1.2 to), (11.4 pts), (0.1 blk)
+[1.5 fg], [0.9 ft], [1.6 3s], [0.6 reb], [0.7 ass], [0.5 stl], [0.4 to], [1.0 pts], [0.2 blk]
+
+104) HARRIS,TOBIAS [7.41] [12.8%] 61gp (30min) SF ORL -230
+(46% fg), (80% ft), (0.5 3s), (7.0 reb), (1.3 ass), (0.7 stl), (1.3 to), (14.6 pts), (0.4 blk)
+[0.8 fg], [1.4 ft], [0.3 3s], [1.6 reb], [0.5 ass], [0.6 stl], [0.2 to], [1.4 pts], [0.6 blk]
+
+105) MONROE,GREG [7.39] [13.1%] 82gp (32min) C DET -152
+(49% fg), (65% ft), (0.0 3s), (9.3 reb), (2.1 ass), (1.1 stl), (2.0 to), (15.2 pts), (0.6 blk)
+[1.1 fg], [-0.5 ft], [0.4 3s], [2.1 reb], [1.1 ass], [1.8 stl], [-0.6 to], [1.7 pts], [0.2 blk]
+
+106) WRIGHT,BRANDAN [7.39] [13.4%] 58gp (18min) C DAL 123
+(67% fg), (72% ft), (0.0 3s), (4.2 reb), (0.5 ass), (0.6 stl), (0.6 to), (9.1 pts), (0.9 blk)
+[2.6 fg], [0.8 ft], [0.4 3s], [0.2 reb], [0.3 ass], [0.6 stl], [1.0 to], [0.7 pts], [0.8 blk]
+
+107) VALANCIUNAS,JONA [7.35] [12.6%] 81gp (28min) C TOR 91
+(53% fg), (76% ft), (0.0 3s), (8.8 reb), (0.7 ass), (0.3 stl), (1.7 to), (11.3 pts), (0.9 blk)
+[1.4 fg], [1.1 ft], [0.4 3s], [2.0 reb], [0.4 ass], [0.2 stl], [-0.3 to], [1.2 pts], [0.9 blk]
+
+108) SMITH,J.R. [7.35] [13.3%] 74gp (32min) SG NYK -2
+(41% fg), (65% ft), (2.6 3s), (4.0 reb), (3.0 ass), (0.9 stl), (1.5 to), (14.5 pts), (0.3 blk)
+[-0.3 fg], [-0.3 ft], [2.8 3s], [1.0 reb], [1.1 ass], [1.0 stl], [0.1 to], [1.4 pts], [0.6 blk]
+
+109) CARTER-WILLIAMS [7.34] [12.9%] 70gp (34min) PG PHI -448
+(40% fg), (70% ft), (0.8 3s), (6.2 reb), (6.3 ass), (1.8 stl), (3.5 to), (16.7 pts), (0.6 blk)
+[-0.6 fg], [-0.4 ft], [0.5 3s], [1.7 reb], [2.3 ass], [2.6 stl], [-1.7 to], [1.6 pts], [1.4 blk]
+
+110) BEVERLEY,PATRICK [7.33] [13.6%] 57gp (30min) PG HOU 295
+(41% fg), (81% ft), (1.6 3s), (3.4 reb), (2.6 ass), (1.4 stl), (1.2 to), (10.1 pts), (0.4 blk)
+[0.2 fg], [0.7 ft], [1.5 3s], [0.7 reb], [0.3 ass], [1.6 stl], [0.8 to], [0.6 pts], [0.9 blk]
+
+111) VAREJAO,ANDERSON [7.33] [13.2%] 65gp (27min) PF CLE 64
+(49% fg), (68% ft), (0.0 3s), (9.7 reb), (2.2 ass), (1.1 stl), (1.1 to), (8.4 pts), (0.6 blk)
+[1.0 fg], [0.1 ft], [-0.1 3s], [2.2 reb], [1.0 ass], [1.5 stl], [0.4 to], [0.6 pts], [0.7 blk]
+
+112) CHANDLER,TYSON [7.32] [13.4%] 55gp (30min) C NYK 13
+(59% fg), (63% ft), (0.0 3s), (9.6 reb), (1.1 ass), (0.7 stl), (1.3 to), (8.7 pts), (1.1 blk)
+[1.6 fg], [-0.2 ft], [0.3 3s], [1.9 reb], [0.5 ass], [0.8 stl], [0.3 to], [0.7 pts], [1.2 blk]
+
+113) GIBSON,TAJ [7.25] [12.7%] 82gp (28min) PF CHI 138
+(47% fg), (75% ft), (0.0 3s), (6.8 reb), (1.1 ass), (0.5 stl), (1.8 to), (13.0 pts), (1.3 blk)
+[0.9 fg], [0.7 ft], [-0.0 3s], [1.5 reb], [0.5 ass], [0.4 stl], [-0.4 to], [1.3 pts], [2.4 blk]
+
+114) JENNINGS,BRANDON [7.24] [12.3%] 80gp (34min) PG DET -186
+(37% fg), (75% ft), (1.9 3s), (3.0 reb), (7.6 ass), (1.3 stl), (2.7 to), (15.5 pts), (0.1 blk)
+[-1.5 fg], [0.3 ft], [2.2 3s], [0.7 reb], [3.0 ass], [1.6 stl], [-1.0 to], [1.5 pts], [0.3 blk]
+
+115) OLADIPO,VICTOR [7.23] [13.5%] 80gp (31min) SG ORL -266
+(41% fg), (77% ft), (0.9 3s), (4.1 reb), (4.1 ass), (1.6 stl), (3.2 to), (13.8 pts), (0.5 blk)
+[-0.1 fg], [0.8 ft], [0.6 3s], [1.1 reb], [1.8 ass], [2.4 stl], [-1.7 to], [1.3 pts], [1.0 blk]
+
+116) PARKER,TONY [7.21] [12.2%] 68gp (29min) PG SAN 274
+(49% fg), (81% ft), (0.4 3s), (2.3 reb), (5.7 ass), (0.5 stl), (2.2 to), (16.7 pts), (0.1 blk)
+[2.2 fg], [1.0 ft], [-0.1 3s], [0.4 reb], [2.0 ass], [0.1 stl], [-0.4 to], [1.6 pts], [0.3 blk]
+
+117) GORDON,ERIC [7.15] [12.5%] 64gp (32min) SG NOR -269
+(43% fg), (78% ft), (1.6 3s), (2.6 reb), (3.2 ass), (1.2 stl), (2.1 to), (15.4 pts), (0.2 blk)
+[0.4 fg], [0.8 ft], [1.4 3s], [0.5 reb], [1.2 ass], [1.4 stl], [-0.4 to], [1.5 pts], [0.4 blk]
+
+118) BASS,BRANDON [7.14] [12.6%] 82gp (27min) PF BOS -402
+(48% fg), (85% ft), (0.0 3s), (5.7 reb), (1.1 ass), (0.4 stl), (1.2 to), (11.1 pts), (0.9 blk)
+[1.0 fg], [1.8 ft], [-0.0 3s], [1.1 reb], [0.4 ass], [0.3 stl], [0.2 to], [1.0 pts], [1.4 blk]
+
+119) MILLS,PATTY [7.14] [13.0%] 81gp (18min) PG SAN 338
+(46% fg), (89% ft), (1.7 3s), (2.1 reb), (1.8 ass), (0.8 stl), (0.8 to), (10.2 pts), (0.1 blk)
+[1.1 fg], [0.8 ft], [1.8 3s], [0.4 reb], [0.0 ass], [0.8 stl], [1.1 to], [0.8 pts], [0.3 blk]
+
+120) NELSON,JAMEER [7.09] [12.5%] 68gp (32min) PG ORL -273
+(39% fg), (85% ft), (2.0 3s), (3.4 reb), (7.0 ass), (0.8 stl), (2.4 to), (12.1 pts), (0.1 blk)
+[-0.5 fg], [0.9 ft], [2.1 3s], [0.8 reb], [2.6 ass], [0.6 stl], [-0.6 to], [1.0 pts], [0.2 blk]
+
+121) HENSON,JOHN [7.06] [12.5%] 70gp (26min) PF MIL -428
+(53% fg), (51% ft), (0.0 3s), (7.1 reb), (1.6 ass), (0.6 stl), (1.6 to), (11.1 pts), (1.7 blk)
+[2.1 fg], [-1.3 ft], [-0.1 3s], [1.5 reb], [0.7 ass], [0.6 stl], [-0.1 to], [1.0 pts], [2.8 blk]
+
+122) DALEMBERT,SAMUEL [6.97] [12.5%] 80gp (20min) C DAL 19
+(56% fg), (73% ft), (0.0 3s), (6.8 reb), (0.5 ass), (0.5 stl), (1.1 to), (6.6 pts), (1.2 blk)
+[1.2 fg], [0.9 ft], [0.4 3s], [1.2 reb], [0.3 ass], [0.7 stl], [0.4 to], [0.5 pts], [1.5 blk]
+
+123) ANDERSEN,CHRIS [6.97] [12.6%] 72gp (19min) C MIA 162
+(64% fg), (71% ft), (0.0 3s), (5.3 reb), (0.3 ass), (0.4 stl), (0.7 to), (6.6 pts), (1.3 blk)
+[1.6 fg], [0.6 ft], [0.4 3s], [0.7 reb], [0.1 ass], [0.4 stl], [0.8 to], [0.5 pts], [1.8 blk]
+
+124) DENG,LUOL [6.94] [12.6%] 63gp (35min) SF CLE 8
+(43% fg), (79% ft), (0.9 3s), (5.7 reb), (2.9 ass), (1.0 stl), (1.8 to), (16.0 pts), (0.1 blk)
+[-0.1 fg], [1.2 ft], [0.8 3s], [1.2 reb], [1.3 ass], [1.2 stl], [-0.3 to], [1.6 pts], [0.0 blk]
+
+125) GREEN,JEFF [6.89] [11.9%] 82gp (34min) PF BOS -352
+(41% fg), (79% ft), (1.6 3s), (4.6 reb), (1.7 ass), (0.7 stl), (2.0 to), (16.9 pts), (0.6 blk)
+[-0.9 fg], [1.3 ft], [2.2 3s], [0.7 reb], [0.7 ass], [0.9 stl], [-0.6 to], [1.8 pts], [0.7 blk]
+
+126) LIN,JEREMY [6.88] [12.6%] 71gp (28min) PG HOU 174
+(44% fg), (82% ft), (1.2 3s), (2.6 reb), (4.1 ass), (0.9 stl), (2.5 to), (12.5 pts), (0.4 blk)
+[0.7 fg], [1.2 ft], [1.0 3s], [0.5 reb], [1.2 ass], [0.9 stl], [-0.6 to], [1.1 pts], [0.9 blk]
+
+127) ROSS,TERRENCE [6.87] [12.7%] 81gp (26min) SG TOR 132
+(42% fg), (83% ft), (2.0 3s), (3.1 reb), (1.0 ass), (0.8 stl), (1.1 to), (10.9 pts), (0.3 blk)
+[0.2 fg], [0.7 ft], [2.1 3s], [0.7 reb], [0.0 ass], [0.9 stl], [0.5 to], [0.9 pts], [0.8 blk]
+
+128) LIVINGSTON,SHAUN [6.87] [11.6%] 76gp (26min) PG BRO 61
+(48% fg), (82% ft), (0.0 3s), (3.2 reb), (3.2 ass), (1.2 stl), (1.4 to), (8.3 pts), (0.4 blk)
+[1.3 fg], [1.0 ft], [-0.5 3s], [0.8 reb], [0.8 ass], [1.6 stl], [0.4 to], [0.5 pts], [1.0 blk]
+
+129) LEE,COURTNEY [6.85] [12.7%] 79gp (24min) SG MEM 66
+(48% fg), (88% ft), (0.9 3s), (2.4 reb), (1.5 ass), (0.8 stl), (0.9 to), (9.6 pts), (0.4 blk)
+[1.4 fg], [1.0 ft], [0.6 3s], [0.5 reb], [0.3 ass], [0.9 stl], [0.7 to], [0.7 pts], [0.8 blk]
+
+130) SMITH,JOSH [6.83] [12.0%] 77gp (35min) SF DET -195
+(41% fg), (53% ft), (0.9 3s), (6.8 reb), (3.3 ass), (1.4 stl), (2.6 to), (16.4 pts), (1.4 blk)
+[-0.6 fg], [-2.0 ft], [0.9 3s], [1.6 reb], [1.6 ass], [2.0 stl], [-1.2 to], [1.8 pts], [2.7 blk]
+
+131) RANDOLPH,ZACH [6.83] [11.4%] 79gp (34min) PF MEM 169
+(46% fg), (74% ft), (0.0 3s), (10.1 reb), (2.5 ass), (0.7 stl), (2.3 to), (17.4 pts), (0.3 blk)
+[0.8 fg], [0.5 ft], [-0.1 3s], [2.5 reb], [1.2 ass], [0.8 stl], [-0.9 to], [1.9 pts], [0.1 blk]
+
+132) ALLEN,RAY [6.81] [12.2%] 73gp (26min) SG MIA 162
+(44% fg), (90% ft), (1.6 3s), (2.8 reb), (2.0 ass), (0.7 stl), (1.1 to), (9.6 pts), (0.1 blk)
+[0.7 fg], [1.2 ft], [1.5 3s], [0.6 reb], [0.6 ass], [0.7 stl], [0.5 to], [0.7 pts], [0.3 blk]
+
+133) MOZGOV,TIMOFEY [6.80] [12.0%] 82gp (21min) C DEN 23
+(52% fg), (75% ft), (0.0 3s), (6.4 reb), (0.8 ass), (0.3 stl), (1.5 to), (9.4 pts), (1.2 blk)
+[1.0 fg], [1.0 ft], [0.4 3s], [1.2 reb], [0.4 ass], [0.3 stl], [-0.0 to], [0.9 pts], [1.7 blk]
+
+134) CHANDLER,WILSON [6.74] [12.2%] 62gp (31min) SG DEN -173
+(41% fg), (72% ft), (2.0 3s), (4.7 reb), (1.8 ass), (0.7 stl), (1.3 to), (13.6 pts), (0.5 blk)
+[-0.1 fg], [0.1 ft], [1.9 3s], [1.1 reb], [0.4 ass], [0.6 stl], [0.4 to], [1.2 pts], [1.0 blk]
+
+135) BARNES,MATT [6.72] [12.3%] 63gp (27min) SF LAC 353
+(43% fg), (73% ft), (1.5 3s), (4.6 reb), (2.0 ass), (0.9 stl), (1.3 to), (9.9 pts), (0.4 blk)
+[0.3 fg], [0.4 ft], [1.7 3s], [0.9 reb], [0.8 ass], [1.0 stl], [0.1 to], [0.8 pts], [0.7 blk]
+
+136) SINGLER,KYLE [6.71] [12.5%] 82gp (28min) SG DET -226
+(44% fg), (82% ft), (1.1 3s), (3.7 reb), (0.9 ass), (0.7 stl), (1.0 to), (9.6 pts), (0.5 blk)
+[0.7 fg], [0.9 ft], [1.0 3s], [0.9 reb], [0.0 ass], [0.7 stl], [0.7 to], [0.7 pts], [1.0 blk]
+
+137) GREEN,DRAYMOND [6.66] [12.3%] 82gp (21min) SF GSW 145
+(40% fg), (66% ft), (0.7 3s), (5.0 reb), (1.9 ass), (1.2 stl), (1.1 to), (6.2 pts), (0.9 blk)
+[-0.0 fg], [0.1 ft], [0.6 3s], [1.1 reb], [0.8 ass], [1.7 stl], [0.3 to], [0.4 pts], [1.7 blk]
+
+138) EVANS,TYREKE [6.60] [11.9%] 72gp (28min) PG NOR -207
+(43% fg), (77% ft), (0.3 3s), (4.7 reb), (5.0 ass), (1.2 stl), (2.4 to), (14.5 pts), (0.3 blk)
+[0.4 fg], [0.6 ft], [-0.2 3s], [1.2 reb], [1.7 ass], [1.4 stl], [-0.6 to], [1.3 pts], [0.7 blk]
+
+139) HILL,JORDAN [6.57] [12.2%] 72gp (20min) C LAL -304
+(54% fg), (68% ft), (0.0 3s), (7.4 reb), (0.8 ass), (0.4 stl), (1.0 to), (9.7 pts), (0.9 blk)
+[1.5 fg], [0.3 ft], [0.3 3s], [1.4 reb], [0.4 ass], [0.4 stl], [0.5 to], [0.9 pts], [0.9 blk]
+
+140) SULLINGER,JARED [6.54] [11.7%] 74gp (27min) PF BOS -14
+(42% fg), (77% ft), (0.8 3s), (8.1 reb), (1.6 ass), (0.5 stl), (1.6 to), (13.3 pts), (0.7 blk)
+[-0.4 fg], [0.9 ft], [1.0 3s], [1.8 reb], [0.7 ass], [0.4 stl], [-0.1 to], [1.3 pts], [0.9 blk]
+
+141) WEBSTER,MARTELL [6.52] [11.5%] 78gp (27min) SF WAS -12
+(43% fg), (84% ft), (1.9 3s), (2.9 reb), (1.2 ass), (0.5 stl), (0.7 to), (9.7 pts), (0.2 blk)
+[0.2 fg], [1.1 ft], [2.3 3s], [0.3 reb], [0.5 ass], [0.3 stl], [0.7 to], [0.9 pts], [0.2 blk]
+
+142) ANDERSON,JAMES [6.45] [11.8%] 80gp (28min) SG PHI -543
+(43% fg), (72% ft), (1.4 3s), (3.8 reb), (1.9 ass), (0.9 stl), (1.3 to), (10.1 pts), (0.3 blk)
+[0.3 fg], [0.2 ft], [1.4 3s], [1.0 reb], [0.6 ass], [1.1 stl], [0.2 to], [0.8 pts], [0.8 blk]
+
+143) WILLIAMS,MARVIN [6.43] [12.0%] 66gp (25min) PF UTA -174
+(43% fg), (78% ft), (1.3 3s), (5.1 reb), (1.2 ass), (0.8 stl), (0.8 to), (9.1 pts), (0.5 blk)
+[0.0 fg], [0.8 ft], [1.6 3s], [0.7 reb], [0.5 ass], [1.0 stl], [0.8 to], [0.6 pts], [0.4 blk]
+
+144) JOHNSON,JAMES [6.42] [11.5%] 52gp (18min) PF MEM 96
+(46% fg), (84% ft), (0.4 3s), (3.2 reb), (2.1 ass), (0.8 stl), (1.3 to), (7.4 pts), (1.1 blk)
+[0.4 fg], [1.2 ft], [0.5 3s], [0.1 reb], [0.9 ass], [0.9 stl], [0.3 to], [0.4 pts], [1.6 blk]
+
+145) HUMPHRIES,KRIS [6.38] [11.8%] 69gp (20min) PF BOS -178
+(50% fg), (81% ft), (0.0 3s), (5.9 reb), (1.0 ass), (0.4 stl), (0.9 to), (8.4 pts), (0.9 blk)
+[1.0 fg], [1.1 ft], [-0.1 3s], [1.1 reb], [0.4 ass], [0.3 stl], [0.6 to], [0.6 pts], [1.3 blk]
+
+146) DIAW,BORIS [6.22] [11.7%] 79gp (24min) PF SAN 317
+(52% fg), (73% ft), (0.6 3s), (4.1 reb), (2.8 ass), (0.6 stl), (1.5 to), (9.1 pts), (0.4 blk)
+[1.4 fg], [0.5 ft], [0.7 3s], [0.5 reb], [1.4 ass], [0.6 stl], [-0.1 to], [0.7 pts], [0.4 blk]
+
+147) BLATCHE,ANDRAY [6.16] [11.4%] 73gp (22min) PF BRO 24
+(47% fg), (74% ft), (0.2 3s), (5.3 reb), (1.5 ass), (1.0 stl), (1.5 to), (11.2 pts), (0.5 blk)
+[0.8 fg], [0.6 ft], [0.2 3s], [0.9 reb], [0.7 ass], [1.5 stl], [-0.1 to], [1.0 pts], [0.6 blk]
+
+148) BARGNANI,ANDREA [6.07] [11.2%] 42gp (29min) PF NYK -124
+(44% fg), (82% ft), (0.7 3s), (5.3 reb), (1.1 ass), (0.3 stl), (1.4 to), (13.3 pts), (1.2 blk)
+[0.0 fg], [1.2 ft], [0.8 3s], [0.7 reb], [0.3 ass], [0.0 stl], [0.3 to], [1.0 pts], [1.7 blk]
+
+149) FELTON,RAYMOND [6.02] [11.5%] 65gp (31min) PG NYK 24
+(39% fg), (72% ft), (1.0 3s), (3.0 reb), (5.7 ass), (1.2 stl), (2.0 to), (9.7 pts), (0.4 blk)
+[-0.3 fg], [0.1 ft], [0.7 3s], [0.7 reb], [2.0 ass], [1.4 stl], [-0.2 to], [0.7 pts], [1.0 blk]
+
+150) BRAND,ELTON [6.01] [11.0%] 73gp (19min) PF ATL -60
+(53% fg), (64% ft), (0.0 3s), (4.9 reb), (1.0 ass), (0.5 stl), (0.8 to), (5.7 pts), (1.2 blk)
+[1.2 fg], [0.2 ft], [-0.0 3s], [0.8 reb], [0.4 ass], [0.5 stl], [0.7 to], [0.2 pts], [2.0 blk]
+
+151) PATTERSON,PATRIC [5.95] [11.4%] 65gp (23min) PF TOR 168
+(46% fg), (70% ft), (0.8 3s), (5.3 reb), (1.2 ass), (0.8 stl), (1.0 to), (8.5 pts), (0.6 blk)
+[0.4 fg], [0.4 ft], [1.0 3s], [0.8 reb], [0.5 ass], [1.1 stl], [0.6 to], [0.6 pts], [0.6 blk]
+
+152) PLUMLEE,MILES [5.94] [11.1%] 80gp (24min) PF PHO 47
+(51% fg), (56% ft), (0.0 3s), (7.8 reb), (0.5 ass), (0.6 stl), (1.4 to), (8.1 pts), (1.1 blk)
+[1.3 fg], [-0.5 ft], [-0.1 3s], [1.8 reb], [0.2 ass], [0.7 stl], [0.1 to], [0.6 pts], [1.9 blk]
+
+153) MILES,C.J. [5.92] [11.0%] 51gp (19min) SG CLE 45
+(43% fg), (85% ft), (1.6 3s), (2.0 reb), (1.0 ass), (0.9 stl), (0.9 to), (9.9 pts), (0.3 blk)
+[0.5 fg], [0.8 ft], [1.4 3s], [0.2 reb], [0.0 ass], [0.9 stl], [0.9 to], [0.6 pts], [0.6 blk]
+
+154) KELLY,RYAN [5.91] [11.3%] 59gp (22min) SF LAL -88
+(42% fg), (81% ft), (0.8 3s), (3.7 reb), (1.6 ass), (0.5 stl), (0.8 to), (8.0 pts), (0.8 blk)
+[0.1 fg], [1.1 ft], [0.7 3s], [0.5 reb], [0.6 ass], [0.3 stl], [0.7 to], [0.5 pts], [1.3 blk]
+
+155) BURKE,TREY [5.88] [10.4%] 70gp (32min) PG UTA -256
+(38% fg), (90% ft), (1.6 3s), (3.0 reb), (5.7 ass), (0.6 stl), (1.9 to), (12.8 pts), (0.1 blk)
+[-1.0 fg], [1.1 ft], [1.6 3s], [0.7 reb], [2.0 ass], [0.2 stl], [-0.0 to], [1.1 pts], [0.3 blk]
+
+156) BRADLEY,AVERY [5.86] [10.7%] 60gp (30min) PG BOS -127
+(43% fg), (80% ft), (1.3 3s), (3.8 reb), (1.4 ass), (1.1 stl), (1.6 to), (14.8 pts), (0.2 blk)
+[0.4 fg], [0.6 ft], [1.2 3s], [0.8 reb], [-0.3 ass], [1.1 stl], [0.3 to], [1.3 pts], [0.4 blk]
+
+157) BUTLER,CARON [5.84] [10.9%] 56gp (25min) SF OKL -152
+(39% fg), (84% ft), (1.8 3s), (4.1 reb), (1.5 ass), (0.8 stl), (1.1 to), (10.5 pts), (0.3 blk)
+[-0.6 fg], [1.0 ft], [1.9 3s], [0.6 reb], [0.5 ass], [0.8 stl], [0.5 to], [0.8 pts], [0.3 blk]
+
+158) HINRICH,KIRK [5.80] [11.0%] 73gp (29min) SG CHI 145
+(39% fg), (76% ft), (1.2 3s), (2.6 reb), (3.9 ass), (1.1 stl), (1.6 to), (9.1 pts), (0.4 blk)
+[-0.3 fg], [0.4 ft], [0.9 3s], [0.5 reb], [1.6 ass], [1.3 stl], [-0.0 to], [0.6 pts], [0.8 blk]
+
+159) MORRIS,MARCUS [5.78] [10.8%] 82gp (21min) PF PHO 125
+(44% fg), (76% ft), (1.2 3s), (3.9 reb), (1.1 ass), (0.9 stl), (1.2 to), (9.7 pts), (0.2 blk)
+[0.1 fg], [0.7 ft], [1.7 3s], [0.5 reb], [0.5 ass], [1.3 stl], [0.2 to], [0.9 pts], [-0.0 blk]
+
+160) JEFFERSON,RICHAR [5.76] [10.8%] 82gp (26min) SF UTA -413
+(44% fg), (74% ft), (1.5 3s), (2.7 reb), (1.6 ass), (0.7 stl), (1.1 to), (10.1 pts), (0.2 blk)
+[0.5 fg], [0.5 ft], [1.8 3s], [0.3 reb], [0.7 ass], [0.7 stl], [0.3 to], [0.9 pts], [0.1 blk]
+
+161) AMINU,AL-FAROUQ [5.73] [10.6%] 80gp (25min) SF NOR -252
+(47% fg), (66% ft), (0.2 3s), (6.2 reb), (1.4 ass), (1.0 stl), (1.1 to), (7.2 pts), (0.5 blk)
+[0.8 fg], [-0.0 ft], [-0.1 3s], [1.5 reb], [0.6 ass], [1.4 stl], [0.3 to], [0.5 pts], [0.8 blk]
+
+162) O'QUINN,KYLE [5.70] [10.4%] 69gp (17min) PF ORL -32
+(50% fg), (68% ft), (0.0 3s), (5.3 reb), (1.1 ass), (0.6 stl), (1.1 to), (6.2 pts), (1.3 blk)
+[0.9 fg], [0.3 ft], [-0.1 3s], [0.8 reb], [0.4 ass], [0.5 stl], [0.4 to], [0.3 pts], [2.1 blk]
+
+163) HENDERSON,GERALD [5.69] [10.4%] 77gp (31min) SG CHA -70
+(43% fg), (76% ft), (0.5 3s), (4.0 reb), (2.6 ass), (0.7 stl), (1.5 to), (14.0 pts), (0.4 blk)
+[0.2 fg], [0.5 ft], [0.1 3s], [1.0 reb], [0.9 ass], [0.6 stl], [0.1 to], [1.4 pts], [0.9 blk]
+
+164) TURNER,EVAN [5.69] [10.3%] 81gp (30min) SG IND -375
+(42% fg), (81% ft), (0.6 3s), (5.0 reb), (3.2 ass), (0.8 stl), (2.3 to), (14.0 pts), (0.1 blk)
+[0.0 fg], [1.1 ft], [0.2 3s], [1.4 reb], [1.3 ass], [0.9 stl], [-0.9 to], [1.4 pts], [0.2 blk]
+
+165) WILLIAMS,LOUIS [5.61] [10.6%] 60gp (24min) SG ATL -167
+(39% fg), (84% ft), (1.3 3s), (2.1 reb), (3.5 ass), (0.8 stl), (1.5 to), (10.4 pts), (0.1 blk)
+[-0.1 fg], [1.3 ft], [1.1 3s], [0.3 reb], [1.3 ass], [0.6 stl], [0.2 to], [0.7 pts], [0.2 blk]
+
+166) HARKLESS,MAURICE [5.61] [11.0%] 80gp (24min) SF ORL -308
+(46% fg), (59% ft), (0.7 3s), (3.3 reb), (1.0 ass), (1.2 stl), (1.1 to), (7.4 pts), (0.6 blk)
+[0.7 fg], [-0.5 ft], [0.7 3s], [0.5 reb], [0.4 ass], [1.8 stl], [0.3 to], [0.6 pts], [1.1 blk]
+
+167) LAMB,JEREMY [5.44] [10.9%] 78gp (19min) SG OKL 214
+(43% fg), (79% ft), (1.1 3s), (2.4 reb), (1.5 ass), (0.7 stl), (0.8 to), (8.5 pts), (0.3 blk)
+[0.4 fg], [0.4 ft], [0.9 3s], [0.5 reb], [0.3 ass], [0.7 stl], [0.9 to], [0.6 pts], [0.7 blk]
+
+168) BOOZER,CARLOS [5.44] [10.0%] 76gp (28min) PF CHI -33
+(45% fg), (76% ft), (0.0 3s), (8.3 reb), (1.6 ass), (0.7 stl), (2.0 to), (13.7 pts), (0.3 blk)
+[0.4 fg], [0.8 ft], [-0.1 3s], [1.9 reb], [0.7 ass], [0.9 stl], [-0.6 to], [1.4 pts], [0.1 blk]
+
+169) KANTER,ENES [5.43] [10.4%] 80gp (26min) C UTA -481
+(49% fg), (73% ft), (0.0 3s), (7.5 reb), (0.9 ass), (0.3 stl), (1.8 to), (12.3 pts), (0.5 blk)
+[0.8 fg], [0.8 ft], [0.4 3s], [1.5 reb], [0.5 ass], [0.4 stl], [-0.4 to], [1.4 pts], [0.1 blk]
+
+170) BURKS,ALEC [5.42] [10.3%] 78gp (28min) PG UTA -286
+(45% fg), (74% ft), (0.6 3s), (3.3 reb), (2.7 ass), (0.9 stl), (1.9 to), (14.0 pts), (0.2 blk)
+[1.0 fg], [0.3 ft], [0.3 3s], [0.8 reb], [0.5 ass], [0.9 stl], [-0.1 to], [1.3 pts], [0.5 blk]
+
+171) STOUDEMIRE,AMARE [5.42] [10.5%] 65gp (22min) PF NYK -159
+(55% fg), (73% ft), (0.0 3s), (4.9 reb), (0.5 ass), (0.4 stl), (1.4 to), (11.9 pts), (0.6 blk)
+[2.2 fg], [0.5 ft], [-0.1 3s], [0.7 reb], [0.1 ass], [0.1 stl], [0.2 to], [1.0 pts], [0.6 blk]
+
+172) PLUMLEE,MASON [5.40] [10.5%] 70gp (18min) PF BRO -87
+(65% fg), (62% ft), (0.0 3s), (4.4 reb), (0.9 ass), (0.7 stl), (1.1 to), (7.4 pts), (0.8 blk)
+[2.3 fg], [-0.5 ft], [-0.1 3s], [0.6 reb], [0.3 ass], [0.8 stl], [0.4 to], [0.5 pts], [1.1 blk]
+
+173) SEFOLOSHA,THABO [5.40] [10.2%] 61gp (26min) SG OKL 120
+(41% fg), (76% ft), (0.8 3s), (3.6 reb), (1.6 ass), (1.3 stl), (0.9 to), (6.3 pts), (0.3 blk)
+[0.4 fg], [0.4 ft], [0.4 3s], [0.8 reb], [0.3 ass], [1.6 stl], [0.8 to], [0.2 pts], [0.6 blk]
+
+174) SESSIONS,RAMON [5.35] [10.0%] 83gp (26min) PG MIL -171
+(42% fg), (80% ft), (0.4 3s), (2.4 reb), (4.1 ass), (0.6 stl), (1.8 to), (12.3 pts), (0.1 blk)
+[0.4 fg], [1.3 ft], [0.0 3s], [0.6 reb], [1.3 ass], [0.3 stl], [-0.1 to], [1.1 pts], [0.3 blk]
+
+175) CRAWFORD,JORDAN [5.33] [10.0%] 81gp (22min) SG GSW -184
+(41% fg), (86% ft), (1.1 3s), (2.3 reb), (3.5 ass), (0.6 stl), (1.7 to), (11.0 pts), (0.1 blk)
+[-0.0 fg], [1.3 ft], [0.9 3s], [0.4 reb], [1.4 ass], [0.4 stl], [-0.1 to], [0.9 pts], [0.2 blk]
+
+176) HILARIO,NENE [5.32] [10.2%] 53gp (29min) C WAS 117
+(50% fg), (58% ft), (0.0 3s), (5.5 reb), (2.9 ass), (1.2 stl), (2.2 to), (14.2 pts), (0.9 blk)
+[1.0 fg], [-1.4 ft], [0.4 3s], [0.6 reb], [1.4 ass], [1.8 stl], [-0.5 to], [1.4 pts], [0.7 blk]
+
+177) EVANS,JEREMY [5.32] [10.2%] 66gp (18min) SF UTA -177
+(52% fg), (68% ft), (0.0 3s), (4.7 reb), (0.7 ass), (0.6 stl), (0.6 to), (6.1 pts), (0.7 blk)
+[1.4 fg], [0.3 ft], [-0.3 3s], [0.9 reb], [0.2 ass], [0.5 stl], [0.9 to], [0.3 pts], [1.2 blk]
+
+178) ROBERTS,BRIAN [5.30] [10.4%] 72gp (23min) PG NOR -137
+(42% fg), (93% ft), (0.9 3s), (1.9 reb), (3.3 ass), (0.6 stl), (1.3 to), (9.4 pts), (0.1 blk)
+[0.3 fg], [1.5 ft], [0.6 3s], [0.3 reb], [0.8 ass], [0.3 stl], [0.5 to], [0.6 pts], [0.3 blk]
+
+179) THOMPSON,TRISTAN [5.28] [9.8%] 82gp (31min) PF CLE -228
+(47% fg), (69% ft), (0.0 3s), (9.2 reb), (0.9 ass), (0.5 stl), (1.3 to), (11.7 pts), (0.4 blk)
+[0.8 fg], [-0.2 ft], [-0.1 3s], [2.3 reb], [0.3 ass], [0.5 stl], [0.1 to], [1.1 pts], [0.4 blk]
+
+180) VASQUEZ,GREIVIS [5.28] [10.4%] 79gp (22min) PG TOR 168
+(42% fg), (87% ft), (1.4 3s), (2.2 reb), (4.1 ass), (0.4 stl), (1.6 to), (9.6 pts), (0.1 blk)
+[0.3 fg], [0.9 ft], [1.4 3s], [0.4 reb], [1.3 ass], [-0.1 stl], [0.1 to], [0.7 pts], [0.2 blk]
+
+181) RONDO,RAJON [5.26] [9.9%] 30gp (33min) PG BOS -172
+(40% fg), (62% ft), (0.9 3s), (5.5 reb), (9.8 ass), (1.3 stl), (3.3 to), (11.7 pts), (0.1 blk)
+[-0.2 fg], [-0.6 ft], [0.4 3s], [1.2 reb], [3.1 ass], [1.3 stl], [-1.0 to], [0.7 pts], [0.2 blk]
+
+182) BOOKER,TREVOR [5.25] [10.3%] 72gp (21min) PF WAS -55
+(55% fg), (61% ft), (0.0 3s), (5.3 reb), (0.9 ass), (0.6 stl), (0.8 to), (6.8 pts), (0.6 blk)
+[1.6 fg], [0.1 ft], [-0.1 3s], [0.9 reb], [0.3 ass], [0.6 stl], [0.7 to], [0.4 pts], [0.8 blk]
+
+183) ALLEN,TONY [5.25] [9.9%] 55gp (23min) SG MEM 92
+(49% fg), (62% ft), (0.2 3s), (3.8 reb), (1.7 ass), (1.6 stl), (1.6 to), (9.0 pts), (0.3 blk)
+[1.5 fg], [-0.6 ft], [-0.4 3s], [0.9 reb], [0.4 ass], [2.2 stl], [0.1 to], [0.6 pts], [0.8 blk]
+
+184) BLAKE,STEVE [5.23] [10.1%] 55gp (27min) PG GSW -174
+(37% fg), (76% ft), (1.4 3s), (2.9 reb), (5.6 ass), (1.0 stl), (1.9 to), (6.9 pts), (0.1 blk)
+[-0.1 fg], [0.2 ft], [1.3 3s], [0.6 reb], [1.8 ass], [0.8 stl], [0.1 to], [0.2 pts], [0.4 blk]
+
+185) HARDAWAY,TIM [5.23] [10.1%] 81gp (23min) SG NYK -168
+(42% fg), (82% ft), (1.6 3s), (1.5 reb), (0.8 ass), (0.5 stl), (0.6 to), (10.2 pts), (0.1 blk)
+[0.3 fg], [0.8 ft], [1.6 3s], [0.1 reb], [-0.0 ass], [0.3 stl], [1.1 to], [0.8 pts], [0.2 blk]
+
+186) JACK,JARRETT [5.23] [10.6%] 80gp (28min) PG CLE -240
+(40% fg), (83% ft), (0.8 3s), (2.8 reb), (4.1 ass), (0.7 stl), (1.7 to), (9.5 pts), (0.3 blk)
+[0.0 fg], [0.9 ft], [0.5 3s], [0.6 reb], [1.3 ass], [0.5 stl], [0.1 to], [0.7 pts], [0.7 blk]
+
+187) WAITERS,DION [5.20] [10.2%] 70gp (29min) SG CLE -54
+(43% fg), (68% ft), (1.3 3s), (2.8 reb), (3.0 ass), (0.9 stl), (2.2 to), (15.9 pts), (0.2 blk)
+[0.2 fg], [-0.4 ft], [1.1 3s], [0.6 reb], [1.1 ass], [1.0 stl], [-0.6 to], [1.6 pts], [0.6 blk]
+
+188) PRIGIONI,PABLO [5.19] [10.2%] 66gp (19min) PG NYK 32
+(46% fg), (91% ft), (1.0 3s), (2.0 reb), (3.5 ass), (1.0 stl), (0.9 to), (3.8 pts), (0.0 blk)
+[1.0 fg], [0.3 ft], [0.7 3s], [0.3 reb], [0.8 ass], [1.0 stl], [1.0 to], [-0.2 pts], [0.1 blk]
+
+189) MARSHALL,KENDALL [5.18] [10.0%] 55gp (28min) PG LAL -172
+(40% fg), (52% ft), (1.3 3s), (2.8 reb), (8.7 ass), (0.9 stl), (2.7 to), (7.8 pts), (0.1 blk)
+[0.1 fg], [-0.3 ft], [1.1 3s], [0.6 reb], [3.1 ass], [0.7 stl], [-0.8 to], [0.4 pts], [0.2 blk]
+
+190) WILLIAMS,MO [5.16] [10.0%] 74gp (24min) PG POR 73
+(41% fg), (87% ft), (1.1 3s), (2.1 reb), (4.3 ass), (0.7 stl), (2.0 to), (9.7 pts), (0.1 blk)
+[0.1 fg], [0.8 ft], [1.0 3s], [0.4 reb], [1.4 ass], [0.6 stl], [-0.2 to], [0.7 pts], [0.4 blk]
+
+191) ILYASOVA,ERSAN [5.11] [9.5%] 55gp (26min) SF MIL -268
+(40% fg), (82% ft), (0.7 3s), (6.2 reb), (1.3 ass), (0.8 stl), (1.1 to), (11.2 pts), (0.1 blk)
+[-0.4 fg], [1.1 ft], [0.5 3s], [1.3 reb], [0.5 ass], [0.8 stl], [0.4 to], [0.9 pts], [0.0 blk]
+
+192) KAMAN,CHRIS [5.06] [10.0%] 39gp (18min) C LAL -60
+(50% fg), (76% ft), (0.0 3s), (5.9 reb), (1.5 ass), (0.3 stl), (1.9 to), (10.4 pts), (1.0 blk)
+[0.8 fg], [1.0 ft], [0.3 3s], [0.6 reb], [0.7 ass], [0.1 stl], [-0.1 to], [0.8 pts], [0.8 blk]
+
+193) OLYNYK,KELLY [5.04] [9.7%] 70gp (19min) PF BOS -5
+(46% fg), (81% ft), (0.6 3s), (5.2 reb), (1.6 ass), (0.5 stl), (1.5 to), (8.7 pts), (0.4 blk)
+[0.5 fg], [1.0 ft], [0.7 3s], [0.8 reb], [0.7 ass], [0.4 stl], [-0.0 to], [0.6 pts], [0.3 blk]
+
+194) SHUMPERT,IMAN [5.03] [10.2%] 74gp (26min) SG NYK 154
+(37% fg), (74% ft), (1.0 3s), (4.2 reb), (1.7 ass), (1.2 stl), (1.1 to), (6.7 pts), (0.2 blk)
+[-0.3 fg], [0.2 ft], [0.8 3s], [1.0 reb], [0.4 ass], [1.7 stl], [0.6 to], [0.3 pts], [0.3 blk]
+
+195) FARMAR,JORDAN [5.03] [10.1%] 41gp (22min) PG LAL -90
+(41% fg), (74% ft), (1.7 3s), (2.5 reb), (4.9 ass), (0.9 stl), (2.3 to), (10.1 pts), (0.2 blk)
+[0.2 fg], [0.2 ft], [1.4 3s], [0.4 reb], [1.3 ass], [0.7 stl], [-0.2 to], [0.6 pts], [0.5 blk]
+
+196) TELETOVIC,MIRZA [5.03] [10.2%] 72gp (19min) PF BRO -95
+(41% fg), (70% ft), (1.9 3s), (3.7 reb), (0.8 ass), (0.4 stl), (0.8 to), (8.6 pts), (0.3 blk)
+[-0.3 fg], [0.5 ft], [2.5 3s], [0.3 reb], [0.3 ass], [0.2 stl], [0.8 to], [0.6 pts], [0.2 blk]
+
+197) MILLER,MIKE [5.02] [10.2%] 82gp (20min) SF MEM -51
+(48% fg), (82% ft), (1.3 3s), (2.5 reb), (1.6 ass), (0.3 stl), (0.9 to), (7.1 pts), (0.1 blk)
+[0.9 fg], [0.7 ft], [1.5 3s], [0.3 reb], [0.7 ass], [-0.0 stl], [0.5 to], [0.5 pts], [-0.1 blk]
+
+198) THORNTON,MARCUS [5.00] [9.9%] 72gp (24min) SG BRO -32
+(39% fg), (80% ft), (1.5 3s), (2.8 reb), (1.1 ass), (0.8 stl), (0.9 to), (9.8 pts), (0.2 blk)
+[-0.4 fg], [0.6 ft], [1.4 3s], [0.6 reb], [0.1 ass], [0.8 stl], [0.7 to], [0.8 pts], [0.4 blk]
+
+199) GARNETT,KEVIN [4.99] [9.7%] 54gp (20min) PF BRO -29
+(44% fg), (80% ft), (0.0 3s), (6.6 reb), (1.5 ass), (0.8 stl), (1.3 to), (6.5 pts), (0.7 blk)
+[0.1 fg], [0.8 ft], [-0.1 3s], [1.2 reb], [0.6 ass], [0.9 stl], [0.3 to], [0.2 pts], [0.9 blk]
+
+200) BROOKS,AARON [4.96] [9.7%] 72gp (21min) PG DEN -93
+(40% fg), (87% ft), (1.3 3s), (1.9 reb), (3.2 ass), (0.7 stl), (1.6 to), (9.0 pts), (0.2 blk)
+[-0.0 fg], [0.8 ft], [1.3 3s], [0.3 reb], [0.8 ass], [0.5 stl], [0.2 to], [0.6 pts], [0.5 blk]
+
+201) AJINCA,ALEXIS [4.95] [9.8%] 56gp (17min) C NOR -99
+(54% fg), (83% ft), (0.0 3s), (4.9 reb), (0.7 ass), (0.4 stl), (1.1 to), (5.9 pts), (0.8 blk)
+[0.7 fg], [1.3 ft], [0.4 3s], [0.4 reb], [0.4 ass], [0.4 stl], [0.5 to], [0.3 pts], [0.6 blk]
+
+202) MORROW,ANTHONY [4.95] [9.9%] 76gp (18min) SG NOR 43
+(45% fg), (82% ft), (1.2 3s), (1.8 reb), (0.8 ass), (0.5 stl), (0.7 to), (8.4 pts), (0.2 blk)
+[0.9 fg], [0.6 ft], [1.0 3s], [0.3 reb], [-0.1 ass], [0.3 stl], [0.9 to], [0.6 pts], [0.4 blk]
+
+203) MAYO,O.J. [4.88] [9.7%] 52gp (25min) SG MIL -357
+(40% fg), (86% ft), (1.6 3s), (2.4 reb), (2.2 ass), (0.5 stl), (1.8 to), (11.7 pts), (0.2 blk)
+[-0.1 fg], [1.0 ft], [1.4 3s], [0.4 reb], [0.6 ass], [0.3 stl], [-0.1 to], [0.9 pts], [0.5 blk]
+
+204) ROBINSON,NATE [4.87] [9.7%] 44gp (19min) PG DEN 83
+(42% fg), (83% ft), (1.3 3s), (1.8 reb), (2.5 ass), (0.8 stl), (1.3 to), (10.4 pts), (0.1 blk)
+[0.5 fg], [0.8 ft], [1.0 3s], [0.2 reb], [0.2 ass], [0.5 stl], [0.7 to], [0.6 pts], [0.2 blk]
+
+205) SCOTT,MIKE [4.87] [9.9%] 80gp (18min) SF ATL -192
+(47% fg), (78% ft), (0.8 3s), (3.5 reb), (0.9 ass), (0.4 stl), (1.0 to), (9.6 pts), (0.1 blk)
+[1.0 fg], [0.7 ft], [0.8 3s], [0.6 reb], [0.4 ass], [0.1 stl], [0.4 to], [0.9 pts], [-0.1 blk]
+
+206) PACHULIA,ZAZA [4.83] [9.2%] 53gp (24min) C MIL -181
+(42% fg), (84% ft), (0.0 3s), (6.3 reb), (2.6 ass), (0.8 stl), (1.7 to), (7.7 pts), (0.3 blk)
+[-0.5 fg], [1.8 ft], [0.4 3s], [0.8 reb], [1.3 ass], [1.2 stl], [-0.1 to], [0.6 pts], [-0.6 blk]
+
+207) WILLIAMS,SHAWNE [4.76] [9.4%] 36gp (20min) SF LAL 25
+(38% fg), (70% ft), (1.2 3s), (4.6 reb), (0.8 ass), (0.5 stl), (0.6 to), (5.6 pts), (0.8 blk)
+[-0.3 fg], [0.5 ft], [1.1 3s], [0.7 reb], [0.2 ass], [0.2 stl], [1.0 to], [0.2 pts], [1.2 blk]
+
+208) GOODEN,DREW [4.75] [9.5%] 22gp (17min) PF WAS -28
+(53% fg), (88% ft), (0.3 3s), (5.1 reb), (0.7 ass), (0.5 stl), (0.8 to), (8.3 pts), (0.3 blk)
+[1.2 fg], [1.1 ft], [0.3 3s], [0.5 reb], [0.2 ass], [0.2 stl], [0.9 to], [0.3 pts], [0.0 blk]
+
+209) MACK,SHELVIN [4.74] [9.5%] 73gp (20min) PG ATL -47
+(41% fg), (86% ft), (0.8 3s), (2.2 reb), (3.7 ass), (0.7 stl), (1.2 to), (7.5 pts), (0.0 blk)
+[0.4 fg], [0.7 ft], [0.6 3s], [0.4 reb], [1.1 ass], [0.5 stl], [0.6 to], [0.4 pts], [0.2 blk]
+
+210) SMITH,JASON [4.72] [9.5%] 31gp (26min) PF NOR -64
+(46% fg), (78% ft), (0.0 3s), (5.8 reb), (0.9 ass), (0.4 stl), (0.9 to), (9.7 pts), (0.9 blk)
+[0.5 fg], [0.8 ft], [-0.1 3s], [0.7 reb], [0.3 ass], [0.0 stl], [0.8 to], [0.6 pts], [1.2 blk]
+
+211) KOUFOS,KOSTA [4.70] [9.9%] 80gp (16min) C MEM 37
+(49% fg), (64% ft), (0.0 3s), (5.2 reb), (0.5 ass), (0.4 stl), (0.8 to), (6.4 pts), (0.9 blk)
+[0.4 fg], [0.5 ft], [0.4 3s], [0.7 reb], [0.3 ass], [0.4 stl], [0.7 to], [0.5 pts], [0.9 blk]
+
+212) STUCKEY,RODNEY [4.67] [8.8%] 73gp (26min) PG DET -159
+(43% fg), (83% ft), (0.3 3s), (2.3 reb), (2.1 ass), (0.7 stl), (1.7 to), (13.9 pts), (0.1 blk)
+[0.4 fg], [1.5 ft], [-0.1 3s], [0.4 reb], [0.2 ass], [0.6 stl], [0.1 to], [1.3 pts], [0.4 blk]
+
+213) ANTETOKOUNMPO,GI [4.66] [9.1%] 77gp (24min) SG MIL -177
+(41% fg), (68% ft), (0.5 3s), (4.4 reb), (1.9 ass), (0.8 stl), (1.6 to), (6.8 pts), (0.8 blk)
+[0.3 fg], [-0.3 ft], [0.1 3s], [1.1 reb], [0.6 ass], [0.8 stl], [0.0 to], [0.3 pts], [1.7 blk]
+
+214) SPLITTER,TIAGO [4.65] [9.2%] 59gp (21min) PF SAN 266
+(52% fg), (69% ft), (0.0 3s), (6.2 reb), (1.5 ass), (0.5 stl), (1.3 to), (8.2 pts), (0.5 blk)
+[1.2 fg], [0.2 ft], [-0.1 3s], [1.1 reb], [0.6 ass], [0.4 stl], [0.3 to], [0.5 pts], [0.5 blk]
+
+215) CUNNINGHAM,DANTE [4.60] [9.7%] 81gp (20min) PF MIN -44
+(46% fg), (56% ft), (0.0 3s), (4.1 reb), (1.0 ass), (0.8 stl), (0.5 to), (6.3 pts), (0.7 blk)
+[0.5 fg], [0.0 ft], [-0.1 3s], [0.5 reb], [0.4 ass], [1.0 stl], [1.0 to], [0.3 pts], [1.0 blk]
+
+216) BATTIER,SHANE [4.51] [9.3%] 73gp (20min) SF MIA 195
+(38% fg), (65% ft), (1.0 3s), (1.9 reb), (0.9 ass), (0.7 stl), (0.3 to), (4.1 pts), (0.5 blk)
+[-0.1 fg], [0.4 ft], [1.0 3s], [0.0 reb], [0.3 ass], [0.7 stl], [1.2 to], [0.1 pts], [0.9 blk]
+
+217) BARNES,HARRISON [4.51] [9.0%] 78gp (28min) SF GSW -51
+(39% fg), (71% ft), (0.8 3s), (4.0 reb), (1.5 ass), (0.8 stl), (1.1 to), (9.5 pts), (0.3 blk)
+[-0.5 fg], [0.3 ft], [0.8 3s], [0.8 reb], [0.6 ass], [1.0 stl], [0.3 to], [0.8 pts], [0.4 blk]
+
+218) THOMPSON,HOLLIS [4.51] [9.3%] 77gp (22min) SF PHI -360
+(45% fg), (71% ft), (0.9 3s), (3.2 reb), (0.9 ass), (0.7 stl), (0.8 to), (6.0 pts), (0.2 blk)
+[0.6 fg], [0.4 ft], [0.9 3s], [0.5 reb], [0.3 ass], [0.7 stl], [0.7 to], [0.3 pts], [0.1 blk]
+
+219) HAMILTON,JORDAN [4.48] [9.1%] 60gp (16min) SF HOU -104
+(39% fg), (78% ft), (1.2 3s), (3.2 reb), (0.9 ass), (0.7 stl), (0.8 to), (6.7 pts), (0.3 blk)
+[-0.3 fg], [0.6 ft], [1.2 3s], [0.4 reb], [0.3 ass], [0.7 stl], [0.7 to], [0.4 pts], [0.4 blk]
+
+220) O'NEAL,JERMAINE [4.47] [9.3%] 44gp (20min) C GSW 24
+(50% fg), (75% ft), (0.0 3s), (5.5 reb), (0.6 ass), (0.3 stl), (1.2 to), (7.9 pts), (0.9 blk)
+[0.4 fg], [1.0 ft], [0.4 3s], [0.5 reb], [0.3 ass], [0.2 stl], [0.5 to], [0.5 pts], [0.7 blk]
+
+221) DAVIS,GLEN [4.44] [9.2%] 68gp (24min) PF LAC -165
+(45% fg), (69% ft), (0.1 3s), (5.2 reb), (1.1 ass), (0.9 stl), (1.1 to), (9.4 pts), (0.4 blk)
+[0.4 fg], [0.2 ft], [-0.0 3s], [0.8 reb], [0.5 ass], [1.1 stl], [0.4 to], [0.7 pts], [0.3 blk]
+
+222) HICKSON,J.J. [4.43] [9.1%] 69gp (26min) PF DEN -189
+(50% fg), (51% ft), (0.0 3s), (9.2 reb), (1.4 ass), (0.7 stl), (1.8 to), (11.8 pts), (0.7 blk)
+[1.5 fg], [-2.1 ft], [-0.1 3s], [2.1 reb], [0.6 ass], [0.8 stl], [-0.4 to], [1.1 pts], [1.0 blk]
+
+223) STIEMSMA,GREG [4.41] [9.3%] 55gp (18min) C NOR -171
+(57% fg), (59% ft), (0.0 3s), (4.1 reb), (0.7 ass), (0.6 stl), (0.8 to), (2.9 pts), (1.0 blk)
+[0.4 fg], [0.6 ft], [0.4 3s], [0.1 reb], [0.3 ass], [0.8 stl], [0.8 to], [-0.1 pts], [1.0 blk]
+
+224) BAYLESS,JERRYD [4.39] [9.2%] 72gp (23min) PG BOS -97
+(40% fg), (79% ft), (1.1 3s), (2.0 reb), (2.7 ass), (0.8 stl), (1.1 to), (9.2 pts), (0.1 blk)
+[-0.1 fg], [0.5 ft], [0.8 3s], [0.3 reb], [0.4 ass], [0.7 stl], [0.8 to], [0.6 pts], [0.3 blk]
+
+225) SANDERS,LARRY [4.38] [9.4%] 23gp (25min) C MIL -111
+(46% fg), (47% ft), (0.0 3s), (7.2 reb), (0.8 ass), (0.8 stl), (1.1 to), (7.7 pts), (1.7 blk)
+[0.0 fg], [-0.9 ft], [0.4 3s], [0.8 reb], [0.3 ass], [0.8 stl], [0.7 to], [0.4 pts], [1.9 blk]
+
+226) TOLLIVER,ANTHONY [4.36] [9.1%] 64gp (20min) PF CHA 75
+(42% fg), (80% ft), (1.6 3s), (2.6 reb), (0.7 ass), (0.3 stl), (0.4 to), (6.1 pts), (0.2 blk)
+[-0.0 fg], [0.7 ft], [2.0 3s], [-0.0 reb], [0.2 ass], [0.0 stl], [1.2 to], [0.3 pts], [-0.1 blk]
+
+227) DOUGLAS-ROBERTS [4.34] [8.8%] 49gp (20min) SF CHA -10
+(44% fg), (80% ft), (1.0 3s), (2.4 reb), (1.0 ass), (0.6 stl), (0.7 to), (6.9 pts), (0.3 blk)
+[0.4 fg], [0.8 ft], [0.9 3s], [0.1 reb], [0.3 ass], [0.3 stl], [0.8 to], [0.3 pts], [0.4 blk]
+
+228) ADRIEN,JEFF [4.32] [9.1%] 53gp (18min) SF MIL -72
+(52% fg), (63% ft), (0.0 3s), (5.8 reb), (0.7 ass), (0.5 stl), (0.7 to), (6.8 pts), (0.7 blk)
+[1.3 fg], [-0.3 ft], [-0.4 3s], [1.2 reb], [0.1 ass], [0.1 stl], [0.8 to], [0.3 pts], [1.1 blk]
+
+229) CROWDER,JAE [4.25] [8.7%] 78gp (16min) SF DAL 243
+(43% fg), (75% ft), (0.6 3s), (2.5 reb), (0.8 ass), (0.8 stl), (0.5 to), (4.6 pts), (0.3 blk)
+[0.4 fg], [0.6 ft], [0.6 3s], [0.2 reb], [0.3 ass], [0.8 stl], [0.9 to], [0.1 pts], [0.3 blk]
+
+230) GARCIA,FRANCISCO [4.15] [9.1%] 55gp (19min) SG HOU 32
+(40% fg), (52% ft), (1.3 3s), (2.2 reb), (1.1 ass), (0.5 stl), (0.5 to), (5.7 pts), (0.6 blk)
+[0.2 fg], [-0.0 ft], [0.9 3s], [0.3 reb], [0.1 ass], [0.1 stl], [1.2 to], [0.1 pts], [1.2 blk]
+
+231) BEASLEY,MICHAEL [4.14] [8.7%] 55gp (15min) SF MIA -43
+(49% fg), (77% ft), (0.4 3s), (3.1 reb), (0.7 ass), (0.4 stl), (1.0 to), (7.9 pts), (0.4 blk)
+[1.2 fg], [0.6 ft], [0.1 3s], [0.4 reb], [0.2 ass], [0.1 stl], [0.5 to], [0.5 pts], [0.5 blk]
+
+232) TURIAF,RONNY [4.10] [9.2%] 31gp (19min) C MIN -23
+(59% fg), (42% ft), (0.0 3s), (5.6 reb), (0.7 ass), (0.3 stl), (0.8 to), (4.8 pts), (1.6 blk)
+[0.8 fg], [-0.7 ft], [0.3 3s], [0.4 reb], [0.3 ass], [0.0 stl], [0.9 to], [0.1 pts], [1.8 blk]
+
+233) MARTIN,KENYON [4.09] [8.7%] 32gp (19min) PF NYK 31
+(51% fg), (57% ft), (0.0 3s), (4.2 reb), (1.6 ass), (0.8 stl), (0.8 to), (4.3 pts), (0.8 blk)
+[0.7 fg], [0.3 ft], [-0.1 3s], [0.3 reb], [0.5 ass], [0.7 stl], [0.9 to], [-0.1 pts], [0.9 blk]
+
+234) BLAIR,DEJUAN [4.06] [8.8%] 78gp (15min) C DAL -12
+(53% fg), (63% ft), (0.0 3s), (4.7 reb), (0.9 ass), (0.8 stl), (1.0 to), (6.4 pts), (0.3 blk)
+[0.8 fg], [0.3 ft], [0.4 3s], [0.5 reb], [0.5 ass], [1.2 stl], [0.5 to], [0.5 pts], [-0.5 blk]
+
+235) MOORE,E'TWAUN [4.04] [9.1%] 79gp (19min) SG ORL -147
+(42% fg), (76% ft), (0.7 3s), (1.7 reb), (1.4 ass), (0.8 stl), (0.7 to), (6.3 pts), (0.2 blk)
+[0.5 fg], [0.3 ft], [0.3 3s], [0.2 reb], [0.3 ass], [0.8 stl], [0.9 to], [0.3 pts], [0.4 blk]
+
+236) HARRIS,DEVIN [4.03] [8.6%] 40gp (20min) PG DAL 156
+(37% fg), (80% ft), (0.8 3s), (2.1 reb), (4.5 ass), (0.7 stl), (1.5 to), (7.9 pts), (0.1 blk)
+[-0.0 fg], [0.7 ft], [0.4 3s], [0.3 reb], [1.1 ass], [0.4 stl], [0.5 to], [0.3 pts], [0.2 blk]
+
+237) CALDWELL-POPE,KE [4.00] [8.8%] 80gp (19min) SG DET -60
+(39% fg), (77% ft), (0.7 3s), (1.9 reb), (0.7 ass), (0.9 stl), (0.3 to), (5.9 pts), (0.1 blk)
+[0.0 fg], [0.4 ft], [0.4 3s], [0.3 reb], [-0.1 ass], [1.1 stl], [1.3 to], [0.2 pts], [0.4 blk]
+
+238) WATSON,C.J. [3.99] [8.8%] 64gp (18min) PG IND 136
+(43% fg), (78% ft), (0.8 3s), (1.6 reb), (1.7 ass), (0.9 stl), (0.9 to), (6.5 pts), (0.1 blk)
+[0.7 fg], [0.4 ft], [0.5 3s], [0.2 reb], [-0.1 ass], [0.9 stl], [1.0 to], [0.2 pts], [0.3 blk]
+
+239) COLE,NORRIS [3.96] [8.5%] 82gp (24min) PG MIA 105
+(41% fg), (77% ft), (0.7 3s), (2.0 reb), (3.0 ass), (0.9 stl), (1.6 to), (6.4 pts), (0.1 blk)
+[0.3 fg], [0.3 ft], [0.5 3s], [0.4 reb], [0.7 ass], [1.0 stl], [0.2 to], [0.3 pts], [0.2 blk]
+
+240) FISHER,DEREK [3.95] [8.8%] 81gp (17min) PG OKL 237
+(39% fg), (77% ft), (1.1 3s), (1.5 reb), (1.4 ass), (0.9 stl), (0.6 to), (5.2 pts), (0.0 blk)
+[0.3 fg], [0.3 ft], [1.0 3s], [0.2 reb], [-0.2 ass], [0.9 stl], [1.3 to], [0.1 pts], [0.2 blk]
+
+241) SIMS,HENRY [3.94] [8.7%] 46gp (19min) C PHI -138
+(47% fg), (74% ft), (0.0 3s), (5.2 reb), (1.1 ass), (0.6 stl), (0.9 to), (7.6 pts), (0.4 blk)
+[0.1 fg], [0.9 ft], [0.4 3s], [0.4 reb], [0.5 ass], [0.7 stl], [0.8 to], [0.5 pts], [-0.3 blk]
+
+242) JOHNSON,CHRIS [3.89] [8.4%] 40gp (19min) SF BOS 12
+(39% fg), (86% ft), (1.1 3s), (2.4 reb), (0.8 ass), (0.7 stl), (0.6 to), (6.2 pts), (0.1 blk)
+[-0.0 fg], [0.9 ft], [1.0 3s], [0.1 reb], [0.2 ass], [0.5 stl], [1.0 to], [0.3 pts], [-0.0 blk]
+
+243) DIENG,GORGUI [3.83] [8.5%] 60gp (13min) C MIN -40
+(49% fg), (63% ft), (0.0 3s), (5.0 reb), (0.7 ass), (0.5 stl), (0.9 to), (4.8 pts), (0.8 blk)
+[0.3 fg], [0.3 ft], [0.4 3s], [0.5 reb], [0.3 ass], [0.6 stl], [0.7 to], [0.2 pts], [0.6 blk]
+
+244) DUDLEY,JARED [3.81] [8.8%] 74gp (23min) SG LAC 210
+(43% fg), (65% ft), (1.1 3s), (2.2 reb), (1.4 ass), (0.6 stl), (0.8 to), (6.9 pts), (0.1 blk)
+[0.6 fg], [-0.0 ft], [0.8 3s], [0.3 reb], [0.2 ass], [0.3 stl], [0.9 to], [0.3 pts], [0.3 blk]
+
+245) GRANGER,DANNY [3.81] [8.1%] 41gp (20min) SF LAC 96
+(37% fg), (94% ft), (1.0 3s), (3.2 reb), (1.0 ass), (0.3 stl), (1.1 to), (8.2 pts), (0.4 blk)
+[-0.6 fg], [1.5 ft], [0.9 3s], [0.3 reb], [0.3 ass], [-0.2 stl], [0.4 to], [0.5 pts], [0.5 blk]
+
+246) ANDERSON,ALAN [3.80] [8.5%] 78gp (22min) SG BRO -52
+(40% fg), (77% ft), (1.1 3s), (2.2 reb), (1.0 ass), (0.6 stl), (0.8 to), (7.2 pts), (0.1 blk)
+[0.1 fg], [0.5 ft], [0.8 3s], [0.4 reb], [0.0 ass], [0.4 stl], [0.9 to], [0.4 pts], [0.3 blk]
+
+247) CASSPI,OMRI [3.77] [8.3%] 71gp (18min) SF HOU 148
+(42% fg), (68% ft), (0.9 3s), (3.7 reb), (1.3 ass), (0.6 stl), (1.0 to), (6.9 pts), (0.2 blk)
+[0.1 fg], [0.1 ft], [0.8 3s], [0.6 reb], [0.5 ass], [0.6 stl], [0.4 to], [0.5 pts], [0.2 blk]
+
+248) THOMPSON,JASON [3.75] [8.4%] 82gp (24min) PF SAC -9
+(50% fg), (57% ft), (0.0 3s), (6.4 reb), (0.6 ass), (0.4 stl), (1.2 to), (7.1 pts), (0.7 blk)
+[1.1 fg], [-0.5 ft], [-0.1 3s], [1.3 reb], [0.1 ass], [0.2 stl], [0.4 to], [0.4 pts], [1.0 blk]
+
+249) ARTHUR,DARRELL [3.71] [8.2%] 69gp (16min) PF DEN 74
+(39% fg), (85% ft), (0.3 3s), (3.0 reb), (0.9 ass), (0.6 stl), (0.8 to), (5.8 pts), (0.7 blk)
+[-0.5 fg], [1.0 ft], [0.4 3s], [0.1 reb], [0.3 ass], [0.5 stl], [0.7 to], [0.2 pts], [0.9 blk]
+
+250) KIDD-GILCHRIST,M [3.71] [8.4%] 62gp (24min) SF CHA 9
+(47% fg), (61% ft), (0.0 3s), (5.2 reb), (0.8 ass), (0.7 stl), (1.0 to), (7.2 pts), (0.6 blk)
+[0.8 fg], [-0.7 ft], [-0.3 3s], [1.1 reb], [0.2 ass], [0.6 stl], [0.5 to], [0.4 pts], [1.1 blk]
+
+251) DELLAVEDOVA,MATT [3.66] [8.8%] 72gp (17min) SG CLE 72
+(41% fg), (79% ft), (0.8 3s), (1.7 reb), (2.6 ass), (0.5 stl), (0.8 to), (4.7 pts), (0.1 blk)
+[0.5 fg], [0.4 ft], [0.4 3s], [0.3 reb], [0.9 ass], [0.2 stl], [0.8 to], [0.0 pts], [0.2 blk]
+
+252) BRYANT,KOBE [3.66] [8.6%] 6gp (29min) SG LAL -32
+(42% fg), (85% ft), (0.5 3s), (4.3 reb), (6.3 ass), (1.2 stl), (5.7 to), (13.8 pts), (0.2 blk)
+[0.2 fg], [1.3 ft], [-0.2 3s], [0.7 reb], [1.9 ass], [0.9 stl], [-2.3 to], [0.8 pts], [0.3 blk]
+
+253) MCLEMORE,BEN [3.64] [8.3%] 82gp (26min) SG SAC -206
+(37% fg), (80% ft), (1.2 3s), (2.9 reb), (1.0 ass), (0.5 stl), (1.2 to), (8.8 pts), (0.2 blk)
+[-0.6 fg], [0.7 ft], [1.0 3s], [0.6 reb], [0.1 ass], [0.4 stl], [0.4 to], [0.6 pts], [0.5 blk]
+
+254) BABBITT,LUKE [3.59] [8.1%] 27gp (17min) SF NOR 70
+(38% fg), (77% ft), (1.3 3s), (3.3 reb), (1.1 ass), (0.3 stl), (0.6 to), (6.3 pts), (0.4 blk)
+[-0.1 fg], [0.6 ft], [1.2 3s], [0.3 reb], [0.3 ass], [-0.3 stl], [1.0 to], [0.2 pts], [0.4 blk]
+
+255) NEAL,GARY [3.58] [7.8%] 52gp (21min) PG CHA -171
+(40% fg), (89% ft), (1.3 3s), (1.7 reb), (1.6 ass), (0.3 stl), (1.2 to), (10.5 pts), (0.0 blk)
+[0.1 fg], [1.2 ft], [1.1 3s], [0.2 reb], [-0.2 ass], [-0.3 stl], [0.7 to], [0.7 pts], [0.1 blk]
+
+256) ASIK,OMER [3.57] [8.2%] 48gp (20min) C HOU 58
+(53% fg), (61% ft), (0.0 3s), (7.9 reb), (0.6 ass), (0.3 stl), (1.2 to), (5.8 pts), (0.8 blk)
+[0.5 fg], [-0.2 ft], [0.4 3s], [1.3 reb], [0.3 ass], [0.2 stl], [0.4 to], [0.3 pts], [0.4 blk]
+
+257) DANIELS,TROY [3.57] [8.0%] 5gp (15min) SG HOU 28
+(48% fg), (0% ft), (2.4 3s), (0.8 reb), (1.0 ass), (0.0 stl), (0.6 to), (8.4 pts), (0.0 blk)
+[1.2 fg], [0.2 ft], [1.7 3s], [-0.1 reb], [-0.1 ass], [-0.8 stl], [1.3 to], [0.2 pts], [0.0 blk]
+
+258) ANTIC,PERO [3.52] [8.3%] 50gp (18min) PF ATL 131
+(41% fg), (75% ft), (1.1 3s), (4.2 reb), (1.2 ass), (0.4 stl), (1.1 to), (7.0 pts), (0.2 blk)
+[-0.1 fg], [0.7 ft], [1.3 3s], [0.4 reb], [0.4 ass], [0.1 stl], [0.5 to], [0.3 pts], [-0.1 blk]
+
+259) MILLER,ANDRE [3.51] [8.0%] 58gp (17min) PG WAS 47
+(45% fg), (77% ft), (0.2 3s), (2.2 reb), (3.4 ass), (0.6 stl), (1.1 to), (4.9 pts), (0.2 blk)
+[1.0 fg], [0.3 ft], [-0.4 3s], [0.4 reb], [0.7 ass], [0.2 stl], [0.9 to], [-0.0 pts], [0.4 blk]
+
+260) BIYOMBO,BISMACK [3.49] [8.3%] 77gp (13min) PF CHA -46
+(61% fg), (51% ft), (0.0 3s), (4.8 reb), (0.1 ass), (0.1 stl), (0.5 to), (2.9 pts), (1.1 blk)
+[1.0 fg], [-0.4 ft], [-0.1 3s], [0.7 reb], [-0.1 ass], [-0.4 stl], [1.0 to], [-0.2 pts], [1.9 blk]
+
+261) ZELLER,TYLER [3.48] [8.1%] 70gp (15min) PF CLE -5
+(53% fg), (71% ft), (0.0 3s), (4.0 reb), (0.5 ass), (0.3 stl), (0.9 to), (5.7 pts), (0.5 blk)
+[1.2 fg], [0.4 ft], [-0.1 3s], [0.4 reb], [0.1 ass], [-0.1 stl], [0.7 to], [0.2 pts], [0.6 blk]
+
+262) FOURNIER,EVAN [3.47] [8.2%] 76gp (19min) SG DEN 12
+(41% fg), (75% ft), (1.2 3s), (2.7 reb), (1.5 ass), (0.4 stl), (1.3 to), (8.4 pts), (0.1 blk)
+[0.3 fg], [0.3 ft], [1.0 3s], [0.5 reb], [0.3 ass], [0.1 stl], [0.3 to], [0.5 pts], [0.2 blk]
+
+263) SALMONS,JOHN [3.47] [8.0%] 78gp (22min) SF TOR -8
+(36% fg), (76% ft), (0.8 3s), (2.1 reb), (1.9 ass), (0.6 stl), (0.7 to), (5.2 pts), (0.2 blk)
+[-0.6 fg], [0.6 ft], [0.8 3s], [0.1 reb], [0.8 ass], [0.5 stl], [0.8 to], [0.2 pts], [0.3 blk]
+
+264) SACRE,ROBERT [3.43] [8.5%] 65gp (16min) C LAL -153
+(47% fg), (68% ft), (0.0 3s), (3.9 reb), (0.8 ass), (0.4 stl), (0.7 to), (5.4 pts), (0.7 blk)
+[0.1 fg], [0.6 ft], [0.3 3s], [0.1 reb], [0.4 ass], [0.3 stl], [0.9 to], [0.3 pts], [0.4 blk]
+
+265) JOSEPH,CORY [3.41] [7.9%] 68gp (13min) PG SAN -3
+(47% fg), (82% ft), (0.2 3s), (1.6 reb), (1.7 ass), (0.5 stl), (0.6 to), (5.0 pts), (0.2 blk)
+[1.1 fg], [0.6 ft], [-0.4 3s], [0.2 reb], [-0.1 ass], [0.1 stl], [1.3 to], [0.0 pts], [0.5 blk]
+
+266) LEUER,JON [3.41] [8.4%] 49gp (13min) PF MEM -13
+(49% fg), (78% ft), (0.5 3s), (3.2 reb), (0.4 ass), (0.4 stl), (0.6 to), (6.2 pts), (0.3 blk)
+[0.7 fg], [0.7 ft], [0.5 3s], [0.1 reb], [0.1 ass], [0.1 stl], [1.0 to], [0.2 pts], [-0.0 blk]
+
+267) WALLACE,GERALD [3.40] [8.2%] 58gp (24min) SF BOS -172
+(50% fg), (46% ft), (0.3 3s), (3.7 reb), (2.5 ass), (1.3 stl), (1.7 to), (5.1 pts), (0.2 blk)
+[1.0 fg], [-1.0 ft], [0.1 3s], [0.5 reb], [1.0 ass], [1.6 stl], [-0.1 to], [0.1 pts], [0.2 blk]
+
+268) WOLTERS,NATE [3.37] [8.0%] 58gp (22min) PG MIL -25
+(43% fg), (65% ft), (0.3 3s), (2.6 reb), (3.2 ass), (0.6 stl), (1.0 to), (7.2 pts), (0.3 blk)
+[0.7 fg], [-0.3 ft], [-0.2 3s], [0.5 reb], [0.6 ass], [0.2 stl], [1.0 to], [0.3 pts], [0.6 blk]
+
+269) CALATHES,NICK [3.33] [8.2%] 71gp (16min) SG MEM 19
+(45% fg), (61% ft), (0.3 3s), (1.9 reb), (2.9 ass), (0.9 stl), (1.4 to), (4.9 pts), (0.1 blk)
+[0.9 fg], [-0.2 ft], [-0.3 3s], [0.3 reb], [1.1 ass], [1.1 stl], [0.2 to], [0.1 pts], [0.2 blk]
+
+270) BYNUM,WILL [3.31] [7.7%] 56gp (18min) PG DET -112
+(42% fg), (80% ft), (0.4 3s), (1.8 reb), (3.9 ass), (0.7 stl), (1.8 to), (8.7 pts), (0.1 blk)
+[0.5 fg], [0.6 ft], [-0.1 3s], [0.2 reb], [0.9 ass], [0.3 stl], [0.1 to], [0.4 pts], [0.3 blk]
+
+271) WITHEY,JEFF [3.28] [7.8%] 58gp (11min) C NOR 29
+(53% fg), (71% ft), (0.0 3s), (2.6 reb), (0.4 ass), (0.3 stl), (0.3 to), (3.3 pts), (0.9 blk)
+[0.2 fg], [0.8 ft], [0.3 3s], [-0.3 reb], [0.2 ass], [0.1 stl], [1.3 to], [-0.0 pts], [0.7 blk]
+
+272) ALLEN,LAVOY [3.28] [8.0%] 65gp (16min) PF IND -209
+(44% fg), (66% ft), (0.0 3s), (4.8 reb), (1.1 ass), (0.4 stl), (0.7 to), (4.7 pts), (0.5 blk)
+[0.3 fg], [0.4 ft], [-0.0 3s], [0.7 reb], [0.4 ass], [0.2 stl], [0.9 to], [0.1 pts], [0.5 blk]
+
+273) VESELY,JAN [3.28] [7.9%] 54gp (14min) SF DEN -109
+(51% fg), (33% ft), (0.0 3s), (3.5 reb), (0.4 ass), (1.0 stl), (0.7 to), (3.6 pts), (0.6 blk)
+[1.0 fg], [-0.8 ft], [-0.3 3s], [0.5 reb], [0.0 ass], [1.1 stl], [0.8 to], [-0.0 pts], [1.0 blk]
+
+274) COLLISON,NICK [3.28] [8.0%] 81gp (16min) PF OKL 333
+(55% fg), (70% ft), (0.0 3s), (3.6 reb), (1.3 ass), (0.4 stl), (0.9 to), (4.2 pts), (0.3 blk)
+[1.0 fg], [0.4 ft], [-0.0 3s], [0.3 reb], [0.5 ass], [0.2 stl], [0.7 to], [-0.0 pts], [0.2 blk]
+
+275) LEWIS,RASHARD [3.28] [7.8%] 60gp (16min) PF MIA 53
+(41% fg), (78% ft), (0.8 3s), (1.8 reb), (0.9 ass), (0.9 stl), (0.6 to), (4.5 pts), (0.1 blk)
+[-0.0 fg], [0.6 ft], [0.9 3s], [-0.3 reb], [0.3 ass], [1.1 stl], [1.0 to], [-0.0 pts], [-0.3 blk]
+
+276) BYNUM,ANDREW [3.26] [7.7%] 26gp (19min) C IND -135
+(41% fg), (75% ft), (0.0 3s), (5.6 reb), (1.1 ass), (0.2 stl), (1.3 to), (8.7 pts), (1.1 blk)
+[-0.7 fg], [1.0 ft], [0.3 3s], [0.4 reb], [0.5 ass], [-0.0 stl], [0.5 to], [0.5 pts], [0.9 blk]
+
+277) WRIGHT,DORELL [3.24] [7.9%] 68gp (14min) SF POR 54
+(37% fg), (75% ft), (1.0 3s), (2.8 reb), (0.9 ass), (0.3 stl), (0.6 to), (5.0 pts), (0.2 blk)
+[-0.2 fg], [0.6 ft], [1.0 3s], [0.3 reb], [0.3 ass], [-0.0 stl], [0.9 to], [0.2 pts], [0.2 blk]
+
+278) OUTLAW,TRAVIS [3.23] [7.8%] 63gp (16min) SF SAC -101
+(39% fg), (80% ft), (0.7 3s), (2.7 reb), (0.8 ass), (0.3 stl), (0.4 to), (5.4 pts), (0.3 blk)
+[-0.1 fg], [0.7 ft], [0.5 3s], [0.2 reb], [0.2 ass], [-0.1 stl], [1.1 to], [0.2 pts], [0.4 blk]
+
+279) DAVIS,ED [3.20] [8.1%] 63gp (15min) PF MEM 52
+(53% fg), (52% ft), (0.0 3s), (4.1 reb), (0.4 ass), (0.3 stl), (0.6 to), (5.7 pts), (0.7 blk)
+[1.1 fg], [-0.5 ft], [-0.0 3s], [0.5 reb], [0.1 ass], [0.0 stl], [0.9 to], [0.2 pts], [0.9 blk]
+
+280) HARRIS,MIKE [3.19] [7.2%] 20gp (11min) SF UTA 14
+(47% fg), (96% ft), (0.0 3s), (1.6 reb), (0.2 ass), (0.8 stl), (0.6 to), (4.2 pts), (0.3 blk)
+[0.6 fg], [1.4 ft], [-0.3 3s], [-0.2 reb], [-0.1 ass], [0.5 stl], [1.1 to], [-0.1 pts], [0.3 blk]
+
+281) NASH,STEVE [3.11] [7.4%] 15gp (20min) PG LAL -65
+(38% fg), (91% ft), (0.5 3s), (1.9 reb), (5.7 ass), (0.5 stl), (2.1 to), (6.8 pts), (0.1 blk)
+[0.1 fg], [1.0 ft], [-0.0 3s], [0.2 reb], [1.4 ass], [-0.2 stl], [0.3 to], [0.1 pts], [0.3 blk]
+
+282) WILLIAMS,DERRICK [3.11] [7.9%] 78gp (23min) PF SAC -180
+(42% fg), (71% ft), (0.3 3s), (4.1 reb), (0.7 ass), (0.6 stl), (1.0 to), (8.0 pts), (0.3 blk)
+[-0.0 fg], [0.3 ft], [0.4 3s], [0.5 reb], [0.2 ass], [0.7 stl], [0.5 to], [0.6 pts], [0.0 blk]
+
+283) MAHINMI,IAN [3.09] [7.8%] 77gp (16min) C IND 8
+(48% fg), (62% ft), (0.0 3s), (3.3 reb), (0.3 ass), (0.5 stl), (0.8 to), (3.5 pts), (0.9 blk)
+[0.0 fg], [0.0 ft], [0.4 3s], [0.0 reb], [0.2 ass], [0.7 stl], [0.8 to], [0.1 pts], [1.0 blk]
+
+284) ZELLER,CODY [3.03] [7.8%] 82gp (17min) PF CHA -83
+(42% fg), (73% ft), (0.0 3s), (4.3 reb), (1.1 ass), (0.5 stl), (1.1 to), (6.0 pts), (0.5 blk)
+[-0.0 fg], [0.5 ft], [-0.1 3s], [0.6 reb], [0.5 ass], [0.4 stl], [0.4 to], [0.3 pts], [0.6 blk]
+
+285) MILLER,DARIUS [3.02] [7.5%] 45gp (16min) SF NOR 51
+(43% fg), (80% ft), (0.6 3s), (1.2 reb), (1.0 ass), (0.5 stl), (0.5 to), (4.4 pts), (0.2 blk)
+[0.5 fg], [0.7 ft], [0.4 3s], [-0.3 reb], [0.3 ass], [0.2 stl], [1.0 to], [0.1 pts], [0.1 blk]
+
+286) BAREA,J.J. [2.92] [7.6%] 79gp (18min) PG MIN -99
+(38% fg), (79% ft), (0.9 3s), (1.9 reb), (3.8 ass), (0.3 stl), (1.6 to), (8.4 pts), (0.0 blk)
+[-0.4 fg], [0.4 ft], [0.7 3s], [0.4 reb], [1.2 ass], [-0.2 stl], [0.2 to], [0.6 pts], [0.1 blk]
+
+287) BUDINGER,CHASE [2.92] [7.4%] 41gp (18min) SF MIN -1
+(39% fg), (82% ft), (1.0 3s), (2.5 reb), (0.8 ass), (0.5 stl), (0.6 to), (6.7 pts), (0.0 blk)
+[-0.2 fg], [0.8 ft], [0.9 3s], [0.1 reb], [0.2 ass], [0.1 stl], [1.0 to], [0.3 pts], [-0.2 blk]
+
+288) MARTIN,CARTIER [2.91] [7.5%] 59gp (14min) SF CHI -126
+(42% fg), (73% ft), (1.0 3s), (1.9 reb), (0.6 ass), (0.5 stl), (0.6 to), (5.6 pts), (0.1 blk)
+[0.2 fg], [0.5 ft], [0.9 3s], [-0.0 reb], [0.1 ass], [0.1 stl], [1.0 to], [0.2 pts], [-0.0 blk]
+
+289) SPEIGHTS,MARREES [2.83] [7.2%] 79gp (12min) PF GSW -122
+(44% fg), (82% ft), (0.1 3s), (3.7 reb), (0.4 ass), (0.1 stl), (0.8 to), (6.4 pts), (0.4 blk)
+[0.1 fg], [1.1 ft], [0.0 3s], [0.4 reb], [0.1 ass], [-0.2 stl], [0.6 to], [0.4 pts], [0.4 blk]
+
+290) PRINCE,TAYSHAUN [2.83] [7.8%] 76gp (25min) SF MEM 43
+(40% fg), (56% ft), (0.3 3s), (3.1 reb), (1.6 ass), (0.5 stl), (0.5 to), (6.0 pts), (0.2 blk)
+[-0.2 fg], [-0.0 ft], [0.0 3s], [0.4 reb], [0.7 ass], [0.4 stl], [0.9 to], [0.4 pts], [0.3 blk]
+
+291) UDRIH,BENO [2.77] [7.7%] 41gp (15min) PG MEM -106
+(43% fg), (83% ft), (0.5 3s), (1.4 reb), (2.8 ass), (0.6 stl), (1.1 to), (4.9 pts), (0.1 blk)
+[0.8 fg], [0.4 ft], [-0.1 3s], [0.1 reb], [0.3 ass], [0.1 stl], [0.9 to], [-0.0 pts], [0.3 blk]
+
+292) WRIGHT,CHRIS [2.74] [7.2%] 8gp (15min) SF MIL -25
+(60% fg), (40% ft), (0.0 3s), (2.5 reb), (0.6 ass), (0.9 stl), (0.6 to), (6.0 pts), (0.6 blk)
+[1.7 fg], [-1.1 ft], [-0.3 3s], [0.0 reb], [0.1 ass], [0.6 stl], [1.0 to], [0.1 pts], [0.7 blk]
+
+293) VARNADO,JARVIS [2.71] [7.7%] 24gp (14min) PF PHI -95
+(60% fg), (51% ft), (0.0 3s), (2.6 reb), (0.5 ass), (0.4 stl), (0.4 to), (4.1 pts), (1.2 blk)
+[1.0 fg], [-0.8 ft], [-0.1 3s], [-0.2 reb], [0.1 ass], [0.1 stl], [1.2 to], [-0.1 pts], [1.5 blk]
+
+294) ADAMS,STEVEN [2.69] [7.6%] 81gp (14min) C OKL 57
+(50% fg), (58% ft), (0.0 3s), (4.1 reb), (0.5 ass), (0.5 stl), (0.9 to), (3.3 pts), (0.7 blk)
+[0.1 fg], [-0.1 ft], [0.4 3s], [0.3 reb], [0.3 ass], [0.6 stl], [0.6 to], [0.0 pts], [0.5 blk]
+
+295) ACY,QUINCY [2.64] [7.3%] 63gp (13min) SF SAC -134
+(46% fg), (66% ft), (0.1 3s), (3.4 reb), (0.4 ass), (0.4 stl), (0.5 to), (2.7 pts), (0.4 blk)
+[0.6 fg], [0.3 ft], [-0.2 3s], [0.5 reb], [0.1 ass], [0.0 stl], [1.0 to], [-0.2 pts], [0.6 blk]
+
+296) ALDRICH,COLE [2.64] [7.2%] 46gp (7min) C NYK -15
+(54% fg), (86% ft), (0.0 3s), (2.8 reb), (0.3 ass), (0.2 stl), (0.4 to), (2.0 pts), (0.7 blk)
+[0.1 fg], [1.2 ft], [0.4 3s], [-0.3 reb], [0.1 ass], [-0.1 stl], [1.2 to], [-0.2 pts], [0.2 blk]
+
+297) NICHOLSON,ANDREW [2.62] [7.2%] 76gp (15min) PF ORL -153
+(42% fg), (82% ft), (0.4 3s), (3.4 reb), (0.3 ass), (0.2 stl), (0.7 to), (5.7 pts), (0.3 blk)
+[-0.0 fg], [0.8 ft], [0.4 3s], [0.2 reb], [0.0 ass], [-0.1 stl], [0.9 to], [0.2 pts], [0.1 blk]
+
+298) JONES,JAMES [2.60] [6.9%] 20gp (11min) SF MIA 78
+(45% fg), (63% ft), (1.4 3s), (1.1 reb), (0.5 ass), (0.1 stl), (0.2 to), (4.8 pts), (0.2 blk)
+[0.6 fg], [0.3 ft], [1.2 3s], [-0.3 reb], [-0.0 ass], [-0.5 stl], [1.4 to], [-0.0 pts], [0.1 blk]
+
+299) SNELL,TONY [2.58] [7.3%] 77gp (16min) SF CHI -115
+(38% fg), (75% ft), (0.7 3s), (1.6 reb), (0.9 ass), (0.4 stl), (0.6 to), (4.5 pts), (0.2 blk)
+[-0.2 fg], [0.6 ft], [0.7 3s], [-0.1 reb], [0.3 ass], [0.1 stl], [0.9 to], [0.1 pts], [0.2 blk]
+
+300) FREDETTE,JIMMER [2.57] [7.1%] 49gp (10min) PG NA -24
+(47% fg), (90% ft), (0.8 3s), (1.1 reb), (1.3 ass), (0.3 stl), (1.0 to), (5.6 pts), (0.1 blk)
+[1.1 fg], [0.4 ft], [0.5 3s], [0.0 reb], [-0.4 ass], [-0.4 stl], [1.0 to], [0.0 pts], [0.2 blk]
