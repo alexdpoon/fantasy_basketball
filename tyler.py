@@ -44,7 +44,7 @@ filename = "12-13RD.txt"
 filename = "13-14RD-partial.txt"
 filename = "13-14RD.txt"
 #filename = "preseason_2014.txt"
-filename = "16-17RD.txt"
+filename = "16-17LFRD.txt"
 
 # field names in each position
 # (might need to tweak for each diff file each year)
