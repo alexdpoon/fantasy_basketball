@@ -1,4 +1,4 @@
-Player           Team PS GP  Min  FGM  FGA  3M  3A FTM  FTA  OR   TR   AS  ST  TO  BK  PF  DQ   PTS  TC  EJ  FF Sta +/-
+Player           Team PS GP  Min  FGM  FGA  3M  3A FTM  FTA  OR   TR   AS  ST  TO  BK  PF  DQ   PTS  TC  EJ  FF Sta +/-  Notes
 abrines,alex      okl SG 34  574   73  181  52 131  21   23   8   44   24  23  14   5  66   0   219   0   0   0   6   42
 acy,quincy        bro SF 28  482   57  139  33  79  37   49  12   99   18  14  19  13  55   1   184   0   0   0   1  -20
 adams,steven      okl  C 39 1155  169  311   0   1  67  131 161  301   40  36  71  36  96   1   405   3   0   0  39   49
@@ -30,7 +30,7 @@ barnes,harrison   dal SF 38 1334  258  564  33  95 123  142  41  180   58  31  5
 barnes,matt       gsw SF 36  831   87  214  41 119  36   40  32  200   91  23  47  14  91   0   251   3   0   0   6   50
 barton,will       den SF 31  866  153  351  45 133  65   88  30  130  121  20  51  18  54   0   416   0   0   0   3   17
 bass,brandon      lac PF 27  289   55   96   0   1  48   56  24   73    8   9  13   6  25   0   158   0   0   0   0  -54
-batum,nicolas     cha SG 39 1305  205  502  74 216 111  127  20  203  233  44 102  14  49   0   595   0   0   0  39  -39
+batum,nicolas     cha SG 39 1305  205  502  74 216 111  127  20  203  233  44 102  14  49   0   595   0   0   0  39  -39 Out 8 weeks.
 baynes,aron       det  C 36  579   84  153   0   0  37   47  71  181   20   4  20  28  82   0   205   0   0   0   1   65
 bazemore,kent     atl SF 34  899  148  329  48 123  53   75  21  105   75  41  62  29  74   2   397   0   0   0  28  -35
 beal,bradley      was SG 40 1419  353  702 117 290 134  160  31  137  137  50  89  11  88   0   957   1   0   0  40  183
@@ -93,7 +93,7 @@ crawford,jamal    lac SG 41 1068  178  420  66 165  90  108  11   67  101  34  6
 crawford,jordan   nor SG 19  442  105  218  37  95  20   26   4   34   58  11  25   2  30   0   267   0   0   0   0   16
 crowder,jae       bos SF 39 1286  183  410  82 218 121  155  32  252   83  37  44  11  87   1   569   3   0   0  39  190
 cunningham,dante  nor PF 38  951  112  204  40 102  11   18  38  160   18  20  12  14  51   0   275   1   0   0  17  -63
-curry,seth        dal SG 33 1048  194  385  76 172  54   60  11   97   90  33  49   1  65   0   518   0   0   0  33    1
+curry,seth        dal SG 33 1048  194  385  76 172  54   60  11   97   90  33  49   1  65   0   518   0   0   0  33    1 Expected to be out until at least Oct 20
 curry,stephen     gsw PG 38 1261  341  726 168 398 140  162  36  180  276  71 115   9  88   0   990   2   0   0  38  502
 daniels,troy      mem SG 37  592   83  237  68 183  17   22  12   55   23   8  27   0  43   0   251   1   0   0   0    7
 davis,anthony     nor PF 37 1293  368  720  19  64 230  284  82  425   76  46  84  69  78   0   985   0   0   0  37   65
@@ -114,7 +114,7 @@ dragic,goran      mia PG 40 1326  306  624  67 164 178  229  40  154  213  59 10
 drummond,andre    det  C 41 1179  229  441   1   5  57  177 189  582   46  63  72  38 120   1   516   1   0   0  41 -134
 dudley,jared      pho SF 34  682   71  171  33 103  20   28  14  118   71  20  33   9  76   1   195   1   0   0   0    0
 dunleavy,mike     atl SF 27  418   49  112  27  67  18   21  12   58   28   8  12   5  30   0   143   0   0   0   0  -60
-dunn,kris         min PG 37  650   56  149  11  37  10   17  10   77   93  38  37  19  91   1   133   2   0   0   2  -51
+dunn,kris         min PG 37  650   56  149  11  37  10   17  10   77   93  38  37  19  91   1   133   2   0   0   2  -51 Out 4 weeks.
 durant,kevin      gsw SF 21  662  177  330  37 109 105  116  15  162  109  19  45  30  36   0   496   2   0   0  21  263
 eddie,jarell      pho SG  5   62    6   19   4  16   8    9   1    7    0   1   1   0   1   0    24   0   0   0   0   -5
 ellenson,henry    det PF  7   98   17   46   6  22   4    8   6   29    4   1  10   1   5   0    44   0   0   0   2    9
@@ -241,13 +241,13 @@ kuzminskas,minda  nyk SF 34  598   88  211  24  88  35   43  26   75   40  13  3
 labissiere,skal   sac PF 29  585  112  209   3   8  50   71  46  154   27  16  36  12  64   1   277   0   0   0  12  -47
 lamb,jeremy       cha SG 34  643  131  276  26  82  57   65  16  130   40  17  23  13  59   0   345   0   0   0   2  -22
 lauvergne,joffre  chi  C 35  497   78  181  14  44  22   33  37  130   37  11  34   1  31   0   192   0   0   0   1  -27
-lavine,zach       min SG  9  332   47  112  11  47  19   26   1   32   24   9  10   2  19   0   124   0   0   0   9  -21
+lavine,zach       min SG  9  332   47  112  11  47  19   26   1   32   24   9  10   2  19   0   124   0   0   0   9  -21 Expected to out until late December, early January.
 lawson,ty         sac PG 30  753  117  239  13  45  98  123  18   75  172  31  60   3  59   1   345   0   0   0   9 -110
 layman,jake       por SF 14  120    9   37   4  16   5    6   4   12    5   2   7   2  10   0    27   0   0   0   1  -32
 lee,courtney      nyk SG 41 1351  187  400  57 149  56   64  31  160  113  49  42  12  75   0   487   0   0   0  38 -136
 lee,david         san PF 39  800  139  234   0   0  41   61  86  244   60  16  45  25  68   0   319   0   0   0   7  166
 len,alex          pho  C 38  734  113  230   3   9  70   97  76  244   21  20  51  42 115   5   299   1   0   0  24 -201
-leonard,kawhi     san SF 35 1179  318  660  67 194 216  254  32  206  139  59  82  28  61   0   919   0   0   0  35  200
+leonard,kawhi     san SF 35 1179  318  660  67 194 216  254  32  206  139  59  82  28  61   0   919   0   0   0  35  200 Injured. Yahoo says to wait until #20.
 leonard,meyers    por  C 38  666   78  190  36 101  15   19  16  127   45   9  17  15  92   0   207   2   0   0   7   10
 leuer,jon         det PF 37  926  145  321  19  73  47   56  48  173   47  12  36  13  71   0   356   0   0   0  26 -150
 levert,caris      bro SG 36  851  123  267  38 116  51   70  19  135   77  33  44   5  65   1   335   0   0   0  26  -90
@@ -295,7 +295,7 @@ mirotic,nikola    chi PF 34  842  141  322  71 191  49   62  33  184   45  26  3
 monroe,greg       mil  C 41  970  215  392   0   3  93  124  89  260   94  42  75  19 102   0   523   5   0   0   0   25
 moore,e'twaun     nor SG 36  898  134  292  34  97  35   44  16   75   74  29  22  16  61   0   337   2   0   0   2  -71
 morris,marcus     det PF 39 1284  215  511  57 172  86  112  48  209   81  19  43  13  85   2   573   4   0   0  39 -105
-morris,markieff   was PF 36 1115  201  425  42 103  81   92  55  236   56  34  57  22 124   3   525   5   0   0  36   87
+morris,markieff   was PF 36 1115  201  425  42 103  81   92  55  236   56  34  57  22 124   3   525   5   0   0  36   87 Expected to be out until mid November.
 morrow,anthony    chi SG 20  250   34   93  17  51  21   21   5   11   10  10   2   0  16   0   106   0   0   0   0   56
 motiejunas,donat  nor PF 30  417   51  122   9  42  22   43  23   90   24  14  26  10  49   0   133   0   0   0   0 -102
 mozgov,timofey    lal  C 14  239   31   66   0   0  11   13  24   69   12   3  24  14  33   0    73   2   0   0  12  -30
@@ -328,14 +328,14 @@ onuaku,chinanu    hou PF  3   41    3    5   0   0   2    2   1    7    2   2   
 oubre,kelly       was SF 40  855  101  240  26  96  38   52  33  124   19  28  21  13 106   1   266   0   0   0   4   39
 pachulia,zaza     gsw  C 33  576   86  157   0   1  49   67  62  188   56  28  39  16  82   1   221   1   0   0  33  143
 papagiannis,geor  sac  C 20  346   55  101   0   2  12   14  25   86   20   3  23  17  41   0   122   1   0   0   0  -30
-parker,jabari     mil PF 10  333   73  153   7  36  37   45  15   74   30   8  28   8  24   0   190   0   0   0   9  -69
-parker,tony       san PG 31  759  109  243   8  32  45   65   1   50  133  21  45   1  42   0   271   0   0   0  31   39
+parker,jabari     mil PF 10  333   73  153   7  36  37   45  15   74   30   8  28   8  24   0   190   0   0   0   9  -69 Expected to be out until at least Feb 1
+parker,tony       san PG 31  759  109  243   8  32  45   65   1   50  133  21  45   1  42   0   271   0   0   0  31   39 Expected to be out until at least Dec 12
 parsons,chandler  mem SF 19  411   35  121  15  51  29   36   4   55   39  12  15   3  37   0   114   0   0   0  19  -41
 patterson,lamar   atl SG  5   41    3   15   1   6   2    3   1    7    6   1   4   0   6   0     9   0   0   0   0   13
 patterson,patric  tor PF 32  677   74  165  41 108  21   29  21  109   25  14  15  11  42   0   210   3   0   0   7   90
 paul,chris        lac PG 27  852  175  361  58 134  95  103  17  122  233  41  68   3  60   0   503   7   0   0  27  249
-payne,adreian     min PF  8   47    6   16   1   5   2    4   3   15    3   4   1   3  13   0    15   0   0   0   0   29
-payne,cameron     chi PG 27  409   58  174  25  79   5    8   3   38   48  14  28   5  43   0   146   1   0   0   0  -59
+payne,adreian     min PF  8   47    6   16   1   5   2    4   3   15    3   4   1   3  13   0    15   0   0   0   0   29 Expected to be out until at least Jan 1
+payne,cameron     chi PG 27  409   58  174  25  79   5    8   3   38   48  14  28   5  43   0   146   1   0   0   0  -59 Expected to be out until at least Nov 30
 payton,elfrid     orl PG 41 1242  233  474  16  56  93  125  56  238  293  40  98  16  93   0   575   0   0   0  37  -61
 payton,gary       mil SG  6  100    8   22   1   9   3    5   0   12   13   3  10   4   9   0    20   0   0   0   0  -58
 pierce,paul       lac SF 13  128   14   31   6  17   2    3   1   30    8   1   8   2  15   0    36   0   0   0   1   24
@@ -365,7 +365,7 @@ roberts,brian     cha PG 31  356   43  108  17  42  23   27   3   34   47   8  2
 robinson,glenn    ind SG 30  536   68  123  24  49  20   30  22   96   16  23  12   6  25   0   180   0   0   0   5  -59
 robinson,thomas   lal PF 19  229   55   98   0   1  16   33  27   83   14  11  24   1  30   0   126   1   0   0   0  -10
 rodriguez,sergio  phi PG 31  582   83  212  39  99   7   13   6   54  135  14  42   0  41   0   212   0   0   0   0   -2
-rondo,rajon       chi PG 37  900  129  288  31  73  17   26  40  161  234  57  83   5  70   0   306   0   0   0  13  -75
+rondo,rajon       chi PG 37  900  129  288  31  73  17   26  40  161  234  57  83   5  70   0   306   0   0   0  13  -75 Out 6 weeks for sports hernia.
 rose,derrick      nyk PG 28  933  208  419   1  11 108  121  27  108  126  19  61   4  34   0   525   0   0   0  28 -116
 ross,terrence     orl SF 38 1077  162  390  72 209  33   42   8  116   61  44  50  18  85   1   429   1   0   0  24  -41
 rozier,terry      bos PG 38  629   75  218  33 105  26   30  22  111   69  23  26   2  35   0   209   3   0   0   0  -34
@@ -406,7 +406,7 @@ teague,jeff       ind PG 41 1344  192  444  53 137 171  194  13  161  310  36  9
 teletovic,mirza   mil PF 36  547   72  198  44 139  15   20   4   72   23   7  13   4  53   0   203   1   0   0   0   44
 temple,garrett    sac SG 24  671   70  179  32  88  23   32   7   70   81  40  38   9  58   0   195   0   0   0  13 -149
 terry,jason       mil SG 38  737   66  137  43  92  16   19   9   63   50  25  22  13  53   0   191   1   0   0   0   44
-thomas,isaiah     bos PG 39 1317  353  756 135 359 307  337  21  104  222  41 119   7  87   0  1148   9   0   0  39  207
+thomas,isaiah     bos PG 39 1317  353  756 135 359 307  337  21  104  222  41 119   7  87   0  1148   9   0   0  39  207 Expected to be out until at least Dec 25
 thomas,lance      nyk SF 16  439   44  104  17  36  26   31  17   88   19   7   9   2  34   0   131   0   0   0   9  -76
 thompson,hollis   nor SG  9  191   11   41   6  24   6    9   4   28    9   6   2   0  14   0    34   0   0   0   8   19
 thompson,klay     gsw SG 38 1271  318  686 146 335 103  120  25  138   81  35  54  21  63   0   885   1   0   0  38  331
