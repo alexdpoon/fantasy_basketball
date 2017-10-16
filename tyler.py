@@ -11,7 +11,7 @@ MISSED_GAME_ADJUSTMENT = .67   # set to 0.0 to analyze totals only (i.e. no adju
 PRESEASON_GAME_ADJUSTMENT = 1.0
 LAST_10_GAMES_ADJUSTMENT = 1.0
 
-NUM_SEASONS = 100000  # 10000 takes about 1 minute on MacBook Pro, 100000 takes about 5 minutes on MacBook Pro
+NUM_SEASONS = 1000000  # 10000 takes about 1 minute on MacBook Pro, 100000 takes about 5 minutes on MacBook Pro
 NUM_CATS = 9
 NUM_TEAMS = 10
 AVG_CAT_SCORE = 0.0 + (NUM_TEAMS+1)/2
