@@ -6,12 +6,12 @@ import random
 # adjustments are used in calculate_season_stats()
 MISSED_GAME_ADJUSTMENT = .67   # set to 0.0 to analyze totals only (i.e. no adjustment for missed games) - not fair to injured players
                                 # set to 1.0 to analyze averages (full adjustment for missed games) - too much boost for an injury prone player
-                                # set to 0.5-0.75 for a nice blend (partial adjustment for missed games)
+                                # set to 0.5-0.75 for a nice blend (partial adjustment for missed games) => 0.67
 
 PRESEASON_GAME_ADJUSTMENT = 1.0
 LAST_10_GAMES_ADJUSTMENT = 1.0
 
-NUM_SEASONS = 1000000  # 10000 takes about 1 minute on MacBook Pro, 100000 takes about 5 minutes on MacBook Pro
+NUM_SEASONS = 100000  # 10000 takes about 1 minute on MacBook Pro, 100000 takes about 5 minutes on MacBook Pro
 NUM_CATS = 9
 NUM_TEAMS = 10
 AVG_CAT_SCORE = 0.0 + (NUM_TEAMS+1)/2
@@ -23,6 +23,7 @@ AVG_TEAM_SCORE = 0.0 + AVG_CAT_SCORE * NUM_CATS
 #  when taking a full season file and adding your own selected preseason entries
 #   manually, be sure to add -PRE to the end of the person's name so that his
 #   stats will be normalized higher via PRESEASON_GAME_ADJUSTMENT
+# http://www.dougstats.com/
 filename = "02-03RD.txt"
 filename = "03-04RD.txt"
 # filename = "04-05-plus-alex.txt"
@@ -45,6 +46,10 @@ filename = "13-14RD-partial.txt"
 filename = "13-14RD.txt"
 #filename = "preseason_2014.txt"
 filename = "16-17LFRD.txt"
+
+filename = "17-18LFRD.txt"                  # 2nd-half of season only
+#filename = "17-18RD.txt"
+filename = "pre_seasonRD_2018_2019.txt"      # full preseason
 
 # field names in each position
 # (might need to tweak for each diff file each year)
