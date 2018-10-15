@@ -1,11 +1,3 @@
-
-Centers: 59
-Power forwards: 112
-Small forwards: 108
-Shooting guards: 131
-Point guards: 123
-TOTAL: 533
-
 1) DAVIS,ANTHONY [14.58] [33.4%] 4gp (23min) PF NOR ------
 (50% fg), (70% ft), (0.8 3s), (9.8 reb), (2.0 ass), (2.5 stl), (2.2 to), (20.0 pts), (2.5 blk)
 [1.2 fg], [-0.0 ft], [0.7 3s], [2.6 reb], [1.0 ass], [3.4 stl], [-0.5 to], [2.6 pts], [3.6 blk]
